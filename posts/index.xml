@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/posts/</link>
+    <description>Recent content in posts on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2024 22:21:15 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEF CON 32 Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc32/dc32eol/</link>
+      <pubDate>Mon, 19 Aug 2024 22:21:15 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc32/dc32eol/</guid>
+      <description>[NOTE: So, apparently, we missed updating the website last year, so this is done a bit in arears. Meh &amp;ndash;mac.]&#xA;Another DEF CON is in the books.&#xA;Overall, it was a bit of a dip. I think the change of things lead to a lot of unknowns, and it shows in the stats:&#xA;25% less interwebz bits 15% less registered users on wifi 10% less concurrent users on wifi For full information, see the slides.</description>
+    </item>
+    <item>
+      <title>DEF CON 31 Post-Con and then some...</title>
+      <link>https://noc.defcon.org/posts/dc31/dc31oops/</link>
+      <pubDate>Mon, 19 Aug 2024 22:07:35 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc31/dc31oops/</guid>
+      <description>[NOTE: So, apparently, we missed updating the website last year, so this is done a bit in arears. Meh &amp;ndash;mac.]&#xA;Another DEF CON is in the books.&#xA;Overall, we saw more usage than any previous year:&#xA;15% more interwebz bits 30% more registered users on wifi 25% more concurrent users on wifi And we saw the usual amount of issues. Nothing new there.&#xA;For full information, see the slides.&#xA;Thanks to the entire NOC crew: miked, c7five, booger, deadication, dp1i, crv, jon2, wish, strange, musa, toph, commiebstrd, and johntitor.</description>
+    </item>
+    <item>
+      <title>DEF CON 30 in the books</title>
+      <link>https://noc.defcon.org/posts/dc30/dc30inthebooks/</link>
+      <pubDate>Mon, 22 Aug 2022 14:36:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc30/dc30inthebooks/</guid>
+      <description>30 years of DEF CON! It was great times.&#xA;From a NOC perspective it was a good year. Mostly thanks to Mac, who made a few trips pre-con to Vegas to have some equipment staged.&#xA;Overall everything worked. Wi-Fi coverage at the Caesar Forum was pretty awesome. The only minor annoyance was that certain flavors of Android did not like the certificate format we had initially posted on wifireg. Eventually folks figured out how to convert it using openssl and make it work.</description>
+    </item>
+    <item>
+      <title>We&#39;re back and... DEF CON 29 in the books</title>
+      <link>https://noc.defcon.org/posts/dc29/dc29inthebooks/</link>
+      <pubDate>Mon, 09 Aug 2021 14:36:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc29/dc29inthebooks/</guid>
+      <description>effffn, mac and DEF CON would like to thank the hard-working NOC Goons for making the on-site conference network, well, work.&#xA;#sparky, booger, CRV, c0mmiebstrd, Dp1i, c7five, Jon2, deadication, musa, wish, johntitor, MikeD and Toph put in long hours (some on-site and some remotely) in making sure everything worked at least at one point in time. And then got them fixed when you (or quite possibly we) broke something.&#xA;As usual, also a huge thank you to Caesars IT and Encore for making our lives a bit easier.</description>
+    </item>
+    <item>
+      <title>DC28 - who dat?</title>
+      <link>https://noc.defcon.org/posts/dc28/dc28-whodat/</link>
+      <pubDate>Mon, 31 Aug 2020 17:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc28/dc28-whodat/</guid>
+      <description>Unfortunately, there wasn&amp;rsquo;t much for the DEF CON NOC team to do this year. Yeah, that sucks. So no updates here.</description>
+    </item>
+    <item>
+      <title>DEF CON 27 in the books</title>
+      <link>https://noc.defcon.org/posts/dc27/defcon27inthebooks/</link>
+      <pubDate>Tue, 13 Aug 2019 14:36:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc27/defcon27inthebooks/</guid>
+      <description>effffn and DEF CON once again would like to thank our hard-working NOC team for making the conference network, well, work across all the hotels hosting the conference.&#xA;Lots of planning, countless emails and a few phone calls precede the crazy-busy week in Vegas.&#xA;While many get to enjoy hacker-summer-camp in style, mac, #sparky, booger, CRV, c0mmiebstrd, Dp1i, c7five, Jon2, deadication, k4tn155, wish, johntitor, MikeD and Toph put in long hours in making sure everything worked at least at one point in time and then got them fixed when something (or you) broke it.</description>
+    </item>
+    <item>
+      <title>Thanks!</title>
+      <link>https://noc.defcon.org/posts/dc26/thanks/</link>
+      <pubDate>Wed, 22 Aug 2018 02:10:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc26/thanks/</guid>
+      <description>effffn and DEF CON would like to thank all the hard work and planning of our rockstar NOC team, they put a lot of work in so you guys can enjoy many aspects of the con.&#xA;As usual, by the time you&amp;rsquo;re reading this, months of planning happened and crazy few days of execution on site have been lived to cover everything we do for the con, especially now with multiple venues.</description>
+    </item>
+    <item>
+      <title>And we&#39;re done...</title>
+      <link>https://noc.defcon.org/posts/dc26/andweredone/</link>
+      <pubDate>Sun, 12 Aug 2018 18:28:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc26/andweredone/</guid>
+      <description>Thanks everyone once again for making this happen. Our amazing team is now working on tearing down, but you can download the slides for the DEF CON 26 NOC from here.</description>
+    </item>
+    <item>
+      <title>DEF CON 26!</title>
+      <link>https://noc.defcon.org/posts/dc26/defcon26/</link>
+      <pubDate>Wed, 08 Aug 2018 08:21:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc26/defcon26/</guid>
+      <description>hey hey! yes&amp;hellip; we are here. been here since saturday and working hard to get the internetz ready for you!&#xA;you can create your username/ password and download the cert or profile to your OS of choice at https://wifireg.defcon.org&#xA;so, get setup before you show up at Caesars (or Flamingo, or LINQ), yes, 3 properties, same amount of days.&#xA;everything seems to be on track&amp;hellip; see you around and follow us on the twitterz for updatez.</description>
+    </item>
+    <item>
+      <title>DC 25 wrap-up</title>
+      <link>https://noc.defcon.org/posts/dc25/dc25wrapup/</link>
+      <pubDate>Tue, 01 Aug 2017 09:22:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc25/dc25wrapup/</guid>
+      <description>Yesterday the NOC team finished-up packing all the gear and started planning for DC 26.&#xA;In the case you missed the NOC review presentation at the closing ceremony, the detailed DEF CON 25 NOC review slides can be found here.&#xA;Thanks a lot for those who helped out! See you at DC 26!</description>
+    </item>
+    <item>
+      <title>DEF CON 25 is here</title>
+      <link>https://noc.defcon.org/posts/dc25/defcon25ishere/</link>
+      <pubDate>Wed, 26 Jul 2017 14:06:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc25/defcon25ishere/</guid>
+      <description>Just kidding, DEF CON is cancelled.&#xA;We are working hard to make sure everything is ready for the conference when it starts.&#xA;A bunch of things are ready though. For example, you can sign-up for the 802.1x/WPA2 WiFi at https://wifireg.defcon.org before you head to Caesars.&#xA;Detailed instructions are provided there, but the short is: create your credentials (don&amp;rsquo;t use the same as in important stuff!); download and install the digital certificate (or configuration profile for Apple devices).</description>
+    </item>
+    <item>
+      <title>DEF CON 24 Closing Ceremonies NOC Slides</title>
+      <link>https://noc.defcon.org/posts/dc24/defcon24closingceremoniesnocslides/</link>
+      <pubDate>Sun, 07 Aug 2016 15:18:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/defcon24closingceremoniesnocslides/</guid>
+      <description>And here you can find the slides for the DC24 NOC review.&#xA;Thanks everyone and see y&amp;rsquo;all at DEF CON 25!</description>
+    </item>
+    <item>
+      <title>THANKS!</title>
+      <link>https://noc.defcon.org/posts/dc24/thanks/</link>
+      <pubDate>Sun, 07 Aug 2016 12:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/thanks/</guid>
+      <description>effffn and DEF CON would like to thank the hard work of the NOC team, not only for the long demanding week in hot Las Vegas but also the months of planning prior to the con.&#xA;There is quite a bit of preparation in every single aspect you can imagine on how to get all the network and internet requests to all of the vendors, speakers, press, contests, attendees and also those convenient DC TV channels for that late morning hangover cure in the convenience of your hotel room.</description>
+    </item>
+    <item>
+      <title>DC TV issues resolved</title>
+      <link>https://noc.defcon.org/posts/dc24/dctvissuesresolved/</link>
+      <pubDate>Sat, 06 Aug 2016 11:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/dctvissuesresolved/</guid>
+      <description>It looks like DC TV is stable now after the changes and tuning we have made.</description>
+    </item>
+    <item>
+      <title>DC TV Issues update</title>
+      <link>https://noc.defcon.org/posts/dc24/dctvissuesupdate/</link>
+      <pubDate>Sat, 06 Aug 2016 10:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/dctvissuesupdate/</guid>
+      <description>We made some changes in the setup and we are closely monitoring the streams that just started a few minutes ago.&#xA;Tweaks will be made on a per-channel basis and hopefully we will have good news soon.</description>
+    </item>
+    <item>
+      <title>DCTV Issues</title>
+      <link>https://noc.defcon.org/posts/dc24/dctvissues/</link>
+      <pubDate>Fri, 05 Aug 2016 10:53:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/dctvissues/</guid>
+      <description>We are aware DCTV is having intermittent issues and we are currently working on it.</description>
+    </item>
+    <item>
+      <title>DEF CON NOC Team, Response to Register Article</title>
+      <link>https://noc.defcon.org/posts/dc24/defconnocteamresponsetoregisterarticle/</link>
+      <pubDate>Thu, 04 Aug 2016 14:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/defconnocteamresponsetoregisterarticle/</guid>
+      <description>In response to the article that was posted by the Register, the DEF CON Network Operations Center Team (NOC) pride ourselves on making a network that allows the community to get Internet access, and have access to internal resources (Servers, etc.). The DEF CON NOC believes in privacy and anonymity for our attendees.&#xA;When users attach to the DefCon Secure (802.1x/PEAP) network, we have made the decision to do our best to make that data/traffic inaccessible, and the team does not allow for data monitoring, nor recording of the traffic.</description>
+    </item>
+    <item>
+      <title>Welcome to DEF CON 24</title>
+      <link>https://noc.defcon.org/posts/dc24/welcometodefcon24/</link>
+      <pubDate>Thu, 04 Aug 2016 14:24:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/welcometodefcon24/</guid>
+      <description>howdy!&#xA;We are happy to be here and everything should be up and running at this point in both Paris and Bally&amp;rsquo;s conference centers.&#xA;Also, don&amp;rsquo;t forget to check DC TV in the convenience of your hotel room.</description>
+    </item>
+    <item>
+      <title>DC23 NOC Review Slides</title>
+      <link>https://noc.defcon.org/posts/dc23/dc23nocreviewslides/</link>
+      <pubDate>Sun, 09 Aug 2015 20:50:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc23/dc23nocreviewslides/</guid>
+      <description>As promised during the closing ceremonies, the DC23 NOC review slides + stats can be found here.&#xA;Thanks everyone! See you at DEF CON 24!</description>
+    </item>
+    <item>
+      <title>Android Devices and 802.1x</title>
+      <link>https://noc.defcon.org/posts/dc23/androiddevicesand8021x/</link>
+      <pubDate>Thu, 06 Aug 2015 15:06:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc23/androiddevicesand8021x/</guid>
+      <description>It seems like there is a number of Android devices that have issues validating the server certificate for 802.1x authentication.&#xA;We did some research and it seems like it is a common issue with different Android OS and hardware flavors. We can’t put our finger on it but it seems like it is the native 802.1x supplicant within Android.&#xA;There are 3rd party supplicants but at this point this is not one that we can recommend.</description>
+    </item>
+    <item>
+      <title>All on board</title>
+      <link>https://noc.defcon.org/posts/dc23/allonboard/</link>
+      <pubDate>Tue, 04 Aug 2015 11:30:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc23/allonboard/</guid>
+      <description>howdy! We are here, new venue(s) and working full speed for the past two days already to get everything up and running.&#xA;We will keep you posted on the progress of the services coming up either here and/or on twitter @defcon_noc</description>
+    </item>
+    <item>
+      <title>Closing ceremonies slides</title>
+      <link>https://noc.defcon.org/posts/dc22/closingceremoniesslides/</link>
+      <pubDate>Sat, 16 Aug 2014 13:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc22/closingceremoniesslides/</guid>
+      <description>As promised during the closing ceremonies, we are posting the slides of the NOC review for DC22 including some notes.&#xA;And with a slight delay, you can also get the DC21 slides here.</description>
+    </item>
+    <item>
+      <title>DC22 Internet Traffic</title>
+      <link>https://noc.defcon.org/posts/dc22/dc22internettraffic/</link>
+      <pubDate>Sun, 10 Aug 2014 17:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc22/dc22internettraffic/</guid>
+      <description>We will be doing a NOC review at closing ceremonies. For now, this is how much internetz you guys have used.</description>
+    </item>
+    <item>
+      <title>DC22</title>
+      <link>https://noc.defcon.org/posts/dc22/dc22/</link>
+      <pubDate>Tue, 05 Aug 2014 11:59:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc22/dc22/</guid>
+      <description>howdy! It&amp;rsquo;s been a while.&#xA;Just a quick note to say that yes, the 802.1X auth&amp;rsquo;d SSID is back for DC22.&#xA;The registration server should go live today or tomorrow so you can create your credentials before hand to get to the conference network in a more secure fashion.&#xA;We shouldn&amp;rsquo;t really need to tell you this but: DO NOT use credentials that you use in any other important systems, like your corporate windows domain.</description>
+    </item>
+    <item>
+      <title>DEFCONSecure Taken Down</title>
+      <link>https://noc.defcon.org/posts/dc21/defconsecuretakendown/</link>
+      <pubDate>Sun, 04 Aug 2013 15:30:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/defconsecuretakendown/</guid>
+      <description>DEFCONSecure has been shutdown due to 802.1x vulnerabilities. There is no known ETA for restoration at this time.</description>
+    </item>
+    <item>
+      <title>Sunday Morning WiFi Attack Counts</title>
+      <link>https://noc.defcon.org/posts/dc21/sundaymorningwifiattackcounts/</link>
+      <pubDate>Sun, 04 Aug 2013 13:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/sundaymorningwifiattackcounts/</guid>
+      <description>Updated WiFi Attack Counts:</description>
+    </item>
+    <item>
+      <title>Current Bandwidth Report</title>
+      <link>https://noc.defcon.org/posts/dc21/currentbandwidthreport/</link>
+      <pubDate>Thu, 01 Aug 2013 20:18:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/currentbandwidthreport/</guid>
+      <description>Not bad, guys. We expect to see this number possibly double though throughout the next couple of days&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Updated Attack Counts</title>
+      <link>https://noc.defcon.org/posts/dc21/updatedattackcounts/</link>
+      <pubDate>Thu, 01 Aug 2013 18:58:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/updatedattackcounts/</guid>
+      <description>As of 15:45, the updated attack counts are:</description>
+    </item>
+    <item>
+      <title>We&#39;re Watching You Better Than the NSA</title>
+      <link>https://noc.defcon.org/posts/dc21/werewatchingyoubetterthanthensa/</link>
+      <pubDate>Thu, 01 Aug 2013 14:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/werewatchingyoubetterthanthensa/</guid>
+      <description>It&amp;rsquo;s been an interesting morning, for sure. The CON has just begun and we&amp;rsquo;re already seeing the attacks begin:&#xA;You guys just don&amp;rsquo;t give up. ;)</description>
+    </item>
+    <item>
+      <title>And So It Begins</title>
+      <link>https://noc.defcon.org/posts/dc21/andsoitbegins/</link>
+      <pubDate>Thu, 01 Aug 2013 10:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/andsoitbegins/</guid>
+      <description>Sorry for the lack of updates&amp;hellip;&#xA;Been incredibly busy around here trying to get all of the networks setup and configured. Wireless is up and ready for action, just check out http://wifireg.defcon.org to register.&#xA;Be sure to check out the new and improved instructions, as we issued a new cert for this year.</description>
+    </item>
+    <item>
+      <title>And We&#39;re Done</title>
+      <link>https://noc.defcon.org/posts/dc20/andweredone/</link>
+      <pubDate>Mon, 30 Jul 2012 13:12:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/andweredone/</guid>
+      <description>I&amp;rsquo;ll definitely have a follow-up post later on, something more &amp;ldquo;personal&amp;rdquo; given my retirement, etc. It&amp;rsquo;s a really emotional thing for me. I&amp;rsquo;ve certainly have had an amazing year, well, 17 years! I&amp;rsquo;ll say more about that later.&#xA;Meanwhile, here are the slides from closing ceremonies: DC20 Network Closing (PDF 3MB)&#xA;I hope everyone enjoyed this 20th Anniversary Edition of DEF CON. There will never be anything else like it!</description>
+    </item>
+    <item>
+      <title>DC20.3</title>
+      <link>https://noc.defcon.org/posts/dc20/dc203/</link>
+      <pubDate>Sun, 29 Jul 2012 12:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/dc203/</guid>
+      <description>HAPPY SUNDAY MORNING!&#xA;Oh, sorry, are you hung over?&#xA;At least you&amp;rsquo;re not alone!&#xA;Half the Network team is up &amp;amp; moving at least.&#xA;Here&amp;rsquo;s your morning bandwidth graph!</description>
+    </item>
+    <item>
+      <title>DC20-Media In Use</title>
+      <link>https://noc.defcon.org/posts/dc20/dc20mediainuse/</link>
+      <pubDate>Sat, 28 Jul 2012 20:28:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/dc20mediainuse/</guid>
+      <description>The DC20-MEDIA file server is connected via dual 1Gb LACP trunk (2Gbps capability). It&amp;rsquo;s been BUSY today! Good job!</description>
+    </item>
+    <item>
+      <title>Uploading to DC20-MEDIA</title>
+      <link>https://noc.defcon.org/posts/dc20/uploadingtodc20media/</link>
+      <pubDate>Sat, 28 Jul 2012 10:32:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/uploadingtodc20media/</guid>
+      <description>Upload content to share with other con attendees (needless to say, you may want to trust content hosted by DEF CON more than random stuff shared by con attendees).&#xA;NETDrive (http://www.netdrive.net/download.html) is windows software that will allow you to easily map a drive via WebDav.&#xA;This software was also provided for you on the DC20 Conference CD.&#xA;Note:&#xA;NetDrive Settings:&#xA;Site Name: dc20-media.defcon.org Site IP: 10.0.0.32 Port: 21 Server Type: FTP Drive: &amp;quot;select a drive letter&amp;quot; Account: connect as anonymous (if you don&amp;rsquo;t select anonymous, it will prompt you for a login; that means you&amp;rsquo;re doing it wrong)</description>
+    </item>
+    <item>
+      <title>DC20.2</title>
+      <link>https://noc.defcon.org/posts/dc20/dc202/</link>
+      <pubDate>Sat, 28 Jul 2012 10:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/dc202/</guid>
+      <description>Good Morning! It&amp;rsquo;s amazing what just a couple hours sleep will do for you :)&#xA;We hope everyone had a great DEF CON 20 Friday night. Great turn out at all the parties, with some great entertainment (DJ&amp;rsquo;s, bands, etc). Too many for any one person to see all of them (kind of like Disneyland, right?)&#xA;Everyone&amp;rsquo;s going to be asking about DCTV - right, let&amp;rsquo;s get on with that. Several of us were up late (me, Mac, Richard) working on ideas to get things fixed &amp;amp; back to working order.</description>
+    </item>
+    <item>
+      <title>DC20-Media</title>
+      <link>https://noc.defcon.org/posts/dc20/dc20media/</link>
+      <pubDate>Fri, 27 Jul 2012 21:24:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/dc20media/</guid>
+      <description>We discovered the &amp;ldquo;lost checkbox&amp;rdquo; that needed to be un-checked. Now FTP clients can connect, get directory listings, etc.&#xA;The issue was mostly on Windows clients.&#xA;You should be all set now&#xA;So&amp;hellip;LEECH!&#xA;&amp;hellip;and contribute if you have anything!</description>
+    </item>
+    <item>
+      <title>Linux &amp; Secure WiFi Note</title>
+      <link>https://noc.defcon.org/posts/dc20/linuxsecurewifinote/</link>
+      <pubDate>Fri, 27 Jul 2012 17:28:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/linuxsecurewifinote/</guid>
+      <description>From a gentlemen who figured out his LINUX problems with the DefConSecure WiFi - we wanted to pass this along.&#xA;RESOLVED have to add .cer to /usr/local/share/ca-certificates and run&#xA;sudo update-ca-certificates OpenSSL must be aware of the CA cer or validation fails&#xA;Hope this helps!</description>
+    </item>
+    <item>
+      <title>Bandwidth Update</title>
+      <link>https://noc.defcon.org/posts/dc20/bandwidthupdate/</link>
+      <pubDate>Fri, 27 Jul 2012 16:38:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/bandwidthupdate/</guid>
+      <description>90Mbps!</description>
+    </item>
+    <item>
+      <title>DEF CON TV</title>
+      <link>https://noc.defcon.org/posts/dc20/defcontv/</link>
+      <pubDate>Fri, 27 Jul 2012 12:03:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/defcontv/</guid>
+      <description>Happy Opening Morning!!&#xA;We&amp;rsquo;re finalizing the video feeds for DCTV. We have guys up in the CATV head-end in the hotel working to get signal across the property properly. Our apologizes the delay (wouldn&amp;rsquo;t be DEF CON without some small snafu eh?). We&amp;rsquo;re working as fast as possible and will let you know when it&amp;rsquo;s live. (Also check @TheLockheed on Twitter, I&amp;rsquo;ll post updates there, too)&#xA;UPDATED&#xA;DCTV will be broadcast to Guest Room TV Channels 55-59:</description>
+    </item>
+    <item>
+      <title>Thursday Bandwidth</title>
+      <link>https://noc.defcon.org/posts/dc20/thursdaybandwidth/</link>
+      <pubDate>Thu, 26 Jul 2012 22:23:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/thursdaybandwidth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure WiFi Certificate</title>
+      <link>https://noc.defcon.org/posts/dc20/securewificertificate/</link>
+      <pubDate>Thu, 26 Jul 2012 21:06:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/securewificertificate/</guid>
+      <description>The way SSL certs are being signed has changed. In the past, a Root CA signed SSL certs directly. Now (as of this year), allegedly the industry (at least SecureTrust/TrustWave) now have a Root CA sign an Intermediate Chain Cert, which in turn signs all down-stream SSL certs.&#xA;What&amp;rsquo;s that mean to you?&#xA;Windows machines doing 802.1x try to validate the SSL certificate by default. For that to happen, they have to know about the chain cert that signed the server&amp;rsquo;s SSL cert.</description>
+    </item>
+    <item>
+      <title>Secure Wifi</title>
+      <link>https://noc.defcon.org/posts/dc20/securewifi/</link>
+      <pubDate>Thu, 26 Jul 2012 19:55:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/securewifi/</guid>
+      <description>We&amp;rsquo;re noticing some people having problems with the TrustWave-signed certificate for 802.1x on DefConSecure WiFi.&#xA;We&amp;rsquo;ll have more on this shortly, with an updated cert-chain file to import (if you don&amp;rsquo;t already have it).</description>
+    </item>
+    <item>
+      <title>WiFi Login Reminder</title>
+      <link>https://noc.defcon.org/posts/dc20/wifiloginreminder/</link>
+      <pubDate>Thu, 26 Jul 2012 13:37:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/wifiloginreminder/</guid>
+      <description>Reminder, to create your login for DefConSecure wifi, go to https://wirireg.defcon.org/.</description>
+    </item>
+    <item>
+      <title>Who broke Twitter?</title>
+      <link>https://noc.defcon.org/posts/dc20/whobroketwitter/</link>
+      <pubDate>Thu, 26 Jul 2012 11:34:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/whobroketwitter/</guid>
+      <description>It&amp;rsquo;s so broke even the &amp;ldquo;we&amp;rsquo;re down&amp;rdquo; page is broke!</description>
+    </item>
+    <item>
+      <title>Thursday Morning</title>
+      <link>https://noc.defcon.org/posts/dc20/thursdaymorning/</link>
+      <pubDate>Thu, 26 Jul 2012 11:25:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/thursdaymorning/</guid>
+      <description>The lines! OMG! THE LINES!&#xA;The reg line backed up to the casino, then out to the pool. Holy crimeny!&#xA;But luckily the line is moving and everything seems kosher. Thanks for everyone&amp;rsquo;s patience!&#xA;Network is going great so far. People are active, no complaints so far.&#xA;If you have issues/questions, don&amp;rsquo;t hesitate to drop us a line (noc-at-defconnetworking-dot-org).&#xA;Today we&amp;rsquo;re mostly helping vendors &amp;amp; contest teams get all setup, connected, etc.</description>
+    </item>
+    <item>
+      <title>The Night Before DEF CON 20</title>
+      <link>https://noc.defcon.org/posts/dc20/thenightbeforedefcon20/</link>
+      <pubDate>Thu, 26 Jul 2012 00:42:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/thenightbeforedefcon20/</guid>
+      <description>Twas the night before DEF CON &amp;hellip; and all throughout the house&amp;hellip; there was a heatmap.&#xA;Here is the &amp;ldquo;heat map&amp;rdquo; for early arrivals (ok, mostly staff) using DEFCON-SECURE wireless so far.</description>
+    </item>
+    <item>
+      <title>Wednesday Morning Update</title>
+      <link>https://noc.defcon.org/posts/dc20/wednesdaymorningupdate/</link>
+      <pubDate>Wed, 25 Jul 2012 12:52:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/wednesdaymorningupdate/</guid>
+      <description>The Wifiz are good. We have 405 people pre-reg&amp;rsquo;d for DefConSecure WiFi. Doolittle has been streaming music all morning.&#xA;We&amp;rsquo;ve been working to stress the bandwidth (100Mb capacity). We&amp;rsquo;ve hit 41Mb last night with Torrents.&#xA;Today we&amp;rsquo;re patching the hard-lines for everyone. Doing a Fry&amp;rsquo;s run shortly :)&#xA;Mac setup Splunk so we&amp;rsquo;re logging what we can; hope to have some interesting stats for closing ceremonies!&#xA;Contests, Events, and staff groups are in &amp;amp; arriving - we&amp;rsquo;re helping them get everything setup.</description>
+    </item>
+    <item>
+      <title>What&#39;s this?</title>
+      <link>https://noc.defcon.org/posts/dc20/whatsthis/</link>
+      <pubDate>Tue, 24 Jul 2012 21:34:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/whatsthis/</guid>
+      <description>Guess what this is?</description>
+    </item>
+    <item>
+      <title>SitRep</title>
+      <link>https://noc.defcon.org/posts/dc20/sitrep/</link>
+      <pubDate>Tue, 24 Jul 2012 12:48:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/sitrep/</guid>
+      <description>The NOC team just walked the entire space. Things are looking good.&#xA;Fridges are stocked.&#xA;Chill-out area and Rio Pavilion has a couple AP&amp;rsquo;s down - someone probably typed &amp;ldquo;shut&amp;rdquo; instead of &amp;ldquo;no shut&amp;rdquo; :)&#xA;Fry&amp;rsquo;s run soon.</description>
+    </item>
+    <item>
+      <title>Don&#39;t jinx it!</title>
+      <link>https://noc.defcon.org/posts/dc20/dontjinxit/</link>
+      <pubDate>Tue, 24 Jul 2012 11:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/dontjinxit/</guid>
+      <description>Things are going well.&#xA;Very well.&#xA;Core is up.&#xA;Internet is pwn3d.&#xA;Wifi is up.&#xA;Secure wifi is secured.&#xA;Don&amp;rsquo;t jinx it.&#xA;Srsly.</description>
+    </item>
+    <item>
+      <title>WiFi Login pre-reg is UP</title>
+      <link>https://noc.defcon.org/posts/dc20/wifiloginpreregisup/</link>
+      <pubDate>Mon, 23 Jul 2012 21:23:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/wifiloginpreregisup/</guid>
+      <description>https://wifireg.defcon.org/&#xA;You can now pre-register your secure wifi login name/password for DEF CON 20.&#xA;We are up &amp;amp; open for business!</description>
+    </item>
+    <item>
+      <title>NOC is LIVE</title>
+      <link>https://noc.defcon.org/posts/dc20/nocislive/</link>
+      <pubDate>Mon, 23 Jul 2012 15:06:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/nocislive/</guid>
+      <description>DEF CON NOC is live. Oh, YOU want network access, too? Ok, we&amp;rsquo;ll keep working on that.</description>
+    </item>
+    <item>
+      <title>We have Internet</title>
+      <link>https://noc.defcon.org/posts/dc20/wehaveinternet/</link>
+      <pubDate>Mon, 23 Jul 2012 14:43:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/wehaveinternet/</guid>
+      <description>Officially posted from the DEF CON 20 NOC!&#xA;Setup proceeding a-pace. Cross your fingers! :)</description>
+    </item>
+    <item>
+      <title>Here it goes!</title>
+      <link>https://noc.defcon.org/posts/dc20/hereitgoes/</link>
+      <pubDate>Sun, 22 Jul 2012 20:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/hereitgoes/</guid>
+      <description>The DEF CON 20 Network Team is at the Rio. Setup begins far too bright &amp;amp; early tomorrow. Let&amp;rsquo;s do this!!</description>
+    </item>
+    <item>
+      <title>Pre-Setup</title>
+      <link>https://noc.defcon.org/posts/dc20/presetup/</link>
+      <pubDate>Thu, 19 Jul 2012 23:24:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/presetup/</guid>
+      <description>Mac has the &amp;ldquo;core&amp;rdquo; setup &amp;amp; ready to go.</description>
+    </item>
+    <item>
+      <title>Soon, only not yet!</title>
+      <link>https://noc.defcon.org/posts/dc20/soononlynotyet/</link>
+      <pubDate>Fri, 13 Jul 2012 22:28:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/soononlynotyet/</guid>
+      <description>Friday the 13th.&#xA;DEF CON is sneaking up on us.&#xA;The NOC team heads to Vegas in a week. Seriously, already?!&#xA;We&amp;rsquo;ve rebuilt some of the infrastructure on new equipment this year. Kept a lot of things the same - it&amp;rsquo;s going to be a BIG year for DEF CON, so we want to do all we can to make sure everything works the first time!&#xA;Once we get on-site, get the core infrastructure up, we&amp;rsquo;ll let you know that we&amp;rsquo;re opening up wifi login registration.</description>
+    </item>
+    <item>
+      <title>DC20 - almost there</title>
+      <link>https://noc.defcon.org/posts/dc20/dc20almostthere/</link>
+      <pubDate>Sun, 24 Jun 2012 10:52:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/dc20almostthere/</guid>
+      <description>While the other DEF CON 20 teams, speakers, contests, etc all gear up to make this year a massive blow-out year - we&amp;rsquo;re actually trying to keep it simple. That&amp;rsquo;s our &amp;ldquo;secret&amp;rdquo; to making the network happen. Don&amp;rsquo;t over complicate things. So as much as possible, this year&amp;rsquo;s network will look like last year, with tweaks &amp;amp; improvement here &amp;amp; there. We&amp;rsquo;re probably going to upgrade/swap out some switches, but largely only because some newer stuff is available to us this year - and we&amp;rsquo;ll (almost never) turn down free upgrades :)</description>
+    </item>
+    <item>
+      <title>Happy Holidays</title>
+      <link>https://noc.defcon.org/posts/dc20/happyholidays/</link>
+      <pubDate>Thu, 29 Dec 2011 12:14:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc20/happyholidays/</guid>
+      <description>Oh to hell with it&amp;hellip;Merry Christmas! :) We hope all of you had a wonderful Christmas, a great Hanukkah, and generally enjoyed the holidays! 2012 is the year the Mayans predicted the world would end - and is also coincidentally the 20th anniversary of DefCon. We&amp;rsquo;ve been doing some early planning already to ensure that DefCon20 is the biggest, baddest, most exciting DefCon EVER!&#xA;We hope everyone had a very Happy New Years - be safe in whatever activities you chose to indulge in (or at least don&amp;rsquo;t get caught!</description>
+    </item>
+    <item>
+      <title>Bandwidth @ 1645</title>
+      <link>https://noc.defcon.org/posts/dc19/bandwidth1645/</link>
+      <pubDate>Sun, 07 Aug 2011 18:43:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/bandwidth1645/</guid>
+      <description>All your torrents are belong to us&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Your Sunday Morning Bandwidth Report</title>
+      <link>https://noc.defcon.org/posts/dc19/yoursundaymorningbandwidthreport/</link>
+      <pubDate>Sun, 07 Aug 2011 12:04:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/yoursundaymorningbandwidthreport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utilization @ 1345</title>
+      <link>https://noc.defcon.org/posts/dc19/utilization1345/</link>
+      <pubDate>Sat, 06 Aug 2011 15:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/utilization1345/</guid>
+      <description>Network utilization currently at 94% (on inbound).&#xA;For the mathematically challenged, that&amp;rsquo;s 94Mb (we have a 100Mb circuit).&#xA;Outbound is running about 20Mb (probably torrents seeding).</description>
+    </item>
+    <item>
+      <title>Friday complete</title>
+      <link>https://noc.defcon.org/posts/dc19/fridaycomplete/</link>
+      <pubDate>Fri, 05 Aug 2011 23:47:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/fridaycomplete/</guid>
+      <description>9:30p - the day is largely over (other than parties at this point).&#xA;Not much bandwidth consumed today - a few spikes, but generally hovered around 10-14Mbps.&#xA;DCTV seems generally well-received. The feeds from the cameras don&amp;rsquo;t mix speaker &amp;amp; slides so we had to pick one feed to broadcast. We&amp;rsquo;re already talking about major upgrades next year - but since this is the first time since the AP we&amp;rsquo;ve been able to do this, we got a lot of ideas for making DC20 a major step-up.</description>
+    </item>
+    <item>
+      <title>Apple iPhone/iPad on WiFi</title>
+      <link>https://noc.defcon.org/posts/dc19/appleiphoneipadonwifi/</link>
+      <pubDate>Fri, 05 Aug 2011 14:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/appleiphoneipadonwifi/</guid>
+      <description>Carry-over from last year - iOS (Apple) products have issues on the wifi.&#xA;The work-around is here.</description>
+    </item>
+    <item>
+      <title>Blood Drive!</title>
+      <link>https://noc.defcon.org/posts/dc19/blooddrive/</link>
+      <pubDate>Thu, 04 Aug 2011 20:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/blooddrive/</guid>
+      <description>A reminder that there is a Blood Drive tomorrow afternoon. You can give specifically to help out Barkode (Matt Lewis), or to donate in general.&#xA;Priest commands you&amp;hellip;!</description>
+    </item>
+    <item>
+      <title>DCMEv2 for DC19</title>
+      <link>https://noc.defcon.org/posts/dc19/dcmev2fordc19/</link>
+      <pubDate>Thu, 04 Aug 2011 13:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/dcmev2fordc19/</guid>
+      <description>#DefCon Mobile Edition v2.0 for DC19 is LIVE! Check out https://me.defcon.org from your mobile phone for speakers, events, and contest info!&#xA;(many thanks to t3ase for staying up late much of the last week putting the final touches on the new site!)</description>
+    </item>
+    <item>
+      <title>More Network Bandwidth</title>
+      <link>https://noc.defcon.org/posts/dc19/morenetworkbandwidth/</link>
+      <pubDate>Wed, 03 Aug 2011 22:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/morenetworkbandwidth/</guid>
+      <description>Just in case we run out of bandwidth, we have a backup! :)</description>
+    </item>
+    <item>
+      <title>Secure WiFi is ready for you</title>
+      <link>https://noc.defcon.org/posts/dc19/securewifiisreadyforyou/</link>
+      <pubDate>Tue, 02 Aug 2011 20:41:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/securewifiisreadyforyou/</guid>
+      <description>&amp;ldquo;DefConSecure&amp;rdquo; is ready for use, although we still have some AP&amp;rsquo;s to deploy once rooms are turned over to us. However, if you&amp;rsquo;re looking to get prepared for DefCon, get your login setup from home (or other network you &amp;ldquo;trust&amp;rsquo;). Go to https://wifireg.defcon.org/ and reserve your login.</description>
+    </item>
+    <item>
+      <title>The Network Is Up!</title>
+      <link>https://noc.defcon.org/posts/dc19/thenetworkisup/</link>
+      <pubDate>Sun, 31 Jul 2011 20:19:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/thenetworkisup/</guid>
+      <description>First post! ZOMFG! l33t!&#xA;This post is officially made from the DefCon 19 Network!&#xA;The core is up and working. A couple IDF&amp;rsquo;s still have to be patched. Wall ports &amp;amp; floor jacks are mostly patched by the hotel, just need to be patched panel-to-switch in the IDF&amp;rsquo;s. The last of the AP&amp;rsquo;s are being provisioned right now by Luiz &amp;amp; Erick (he&amp;rsquo;s new this year, say hi to him!). The NOC is up &amp;amp; functional!</description>
+    </item>
+    <item>
+      <title>The Network is unpacked &amp; ready for setup!</title>
+      <link>https://noc.defcon.org/posts/dc19/thenetworkisunpackedreadyforsetup/</link>
+      <pubDate>Sun, 31 Jul 2011 15:28:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/thenetworkisunpackedreadyforsetup/</guid>
+      <description>We have arrived and unpacked. With hotel staff on-site &amp;amp; able to help us today, we expect to have the &amp;ldquo;core&amp;rdquo; network up today and the NOC fully functional. Well ahead of schedule!</description>
+    </item>
+    <item>
+      <title>It is upon us!</title>
+      <link>https://noc.defcon.org/posts/dc19/itisuponus/</link>
+      <pubDate>Fri, 29 Jul 2011 20:37:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/itisuponus/</guid>
+      <description>Well, for us, tomorrow begins the madness! Mac &amp;amp; I caravan up from San Diego tomorrow, with most everyone else on Sunday.&#xA;Some gear&amp;rsquo;s been shipped. Most the rest is coming up in my truck. Got enough cabling to LAN-ify the workshops per requests. WiFi&amp;rsquo;s working, core gear&amp;rsquo;s setup &amp;amp; working. Need to finish up some stuff on the Mobile Edition agenda-app, but it&amp;rsquo;s nearly done. It&amp;rsquo;s going to be a great year at the Rio!</description>
+    </item>
+    <item>
+      <title>WiFi Provisioning!</title>
+      <link>https://noc.defcon.org/posts/dc19/wifiprovisioning/</link>
+      <pubDate>Mon, 18 Jul 2011 19:17:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/wifiprovisioning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DCNET.v6</title>
+      <link>https://noc.defcon.org/posts/dc19/dcnetv6/</link>
+      <pubDate>Sat, 16 Jul 2011 18:11:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/dcnetv6/</guid>
+      <description>http://v6.defconnetworking.org</description>
+    </item>
+    <item>
+      <title>DefCon 19 to offer IPv6</title>
+      <link>https://noc.defcon.org/posts/dc19/defcon19toofferipv6/</link>
+      <pubDate>Sat, 16 Jul 2011 11:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/defcon19toofferipv6/</guid>
+      <description>The DefCon 19 Network will offer IPv6 on all networks. We&amp;rsquo;re going to be running dual-stack v4/v6.&#xA;What will you do with v6?</description>
+    </item>
+    <item>
+      <title>Mobile Edition</title>
+      <link>https://noc.defcon.org/posts/dc19/mobileedition/</link>
+      <pubDate>Tue, 12 Jul 2011 09:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/mobileedition/</guid>
+      <description>DefCon Mobile Edition v2.0 (DCMEv2). T3ase has been hard at work, re-doing the front-end for the Mobile Edition web-app, taking feedback from last year, ensuring better multi-device compatibility, etc. He seems to be really proud of it, but hasn&amp;rsquo;t let anyone see it yet - should I be worried? :)</description>
+    </item>
+    <item>
+      <title>T-3 Weeks</title>
+      <link>https://noc.defcon.org/posts/dc19/t3weeks/</link>
+      <pubDate>Mon, 11 Jul 2011 15:14:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/t3weeks/</guid>
+      <description>Less than 3 weeks til the DCNET crew heads to Vegas. We&amp;rsquo;re planning a full test of network gear this weekend, doing our best to make sure we&amp;rsquo;ve got everything as done-as-possible prior to being on-site. Since it&amp;rsquo;s a new year, new hotel, we&amp;rsquo;re trying to be prepared against the unexpected.&#xA;We have most everyone&amp;rsquo;s network requirements on our list at this point. Contest area may be our biggest challenge - I think we have requests for more drops than we have wall jacks in that room.</description>
+    </item>
+    <item>
+      <title>It&#39;s coming right for us!</title>
+      <link>https://noc.defcon.org/posts/dc19/itscomingrightforus/</link>
+      <pubDate>Mon, 27 Jun 2011 21:30:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/itscomingrightforus/</guid>
+      <description>Four more weeks and the Goons head off to Vegas to start DefCon setup. New hotel, new challenges, but we think it&amp;rsquo;ll all pay off!&#xA;Our aim is to have all the core network gear fully tested, end-to-end, in a couple weeks. The goal is to arrive in Vegas and all we have to do is supply power and start patching jacks! (Let&amp;rsquo;s hope I didn&amp;rsquo;t just jinx it)&#xA;We first announced this publicly at DC4420 (London)(@DC4420) last month - but we&amp;rsquo;re going to bring IPv6 to the DefCon network this year.</description>
+    </item>
+    <item>
+      <title>You know...!</title>
+      <link>https://noc.defcon.org/posts/dc19/youknow/</link>
+      <pubDate>Mon, 28 Feb 2011 11:13:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/youknow/</guid>
+      <description>You-know-who will be meeting at you-know-where you-know-when to talk about you-know-what.&#xA;It&amp;rsquo;s going to be an exciting year! Lots planned!&#xA;But you knew that!</description>
+    </item>
+    <item>
+      <title>Happy New Year - DC19 @ the Rio</title>
+      <link>https://noc.defcon.org/posts/dc19/happynewyeardc19therio/</link>
+      <pubDate>Sat, 01 Jan 2011 21:42:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/happynewyeardc19therio/</guid>
+      <description>Happy New Year to everyone! Happy Binary Day (010111)!&#xA;Official DC19 Network thread started over at the forums: [ link ]&#xA;Also interested in ideas for how to use the TV Channels for DCTV. We&amp;rsquo;ve got 5 channels which we can pump into the hotel rooms via CATV.&#xA;Get on the forums, get us idea on how to rock the Rio this year!</description>
+    </item>
+    <item>
+      <title>NatGeo Story</title>
+      <link>https://noc.defcon.org/posts/dc18/natgeostory/</link>
+      <pubDate>Sun, 08 Aug 2010 09:20:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/natgeostory/</guid>
+      <description>Great story about DC18 from National Geographic!&#xA;story</description>
+    </item>
+    <item>
+      <title>Closing It Out</title>
+      <link>https://noc.defcon.org/posts/dc18/closingitout/</link>
+      <pubDate>Wed, 04 Aug 2010 00:04:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/closingitout/</guid>
+      <description>Thank you EVERYONE who made Def Con 18 so successful - which is every one of you! Speakers, staff, press, contest &amp;amp; event organizers, and just as importantly the attendees! This was the best con I&amp;rsquo;ve personally had in years!&#xA;I&amp;rsquo;m still unpacking a little, but wanted to get the NOC Team&amp;rsquo;s closing slides up (I added a few more stats that effffn had sent over to me) so you now have the complete set.</description>
+    </item>
+    <item>
+      <title>Sunday Morning</title>
+      <link>https://noc.defcon.org/posts/dc18/sundaymorning/</link>
+      <pubDate>Sun, 01 Aug 2010 12:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/sundaymorning/</guid>
+      <description>Good MORNING! Yes, Sunday Morning&amp;hellip; which most people sleep through due to the events of Saturday night. Here at DefConNetworking, we understand. Ugh, we understand!&#xA;But last night was awesome - the Ninja&amp;rsquo;s threw a blow-out party - it was awesome! Many thanks to Barkode &amp;amp; all the Ninja Networks guys for taking care of people. I was really pleased to see a number of DefCon newbies at the party, too.</description>
+    </item>
+    <item>
+      <title>Network Update - Saturday Morning</title>
+      <link>https://noc.defcon.org/posts/dc18/networkupdatesaturdaymorning/</link>
+      <pubDate>Sat, 31 Jul 2010 10:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/networkupdatesaturdaymorning/</guid>
+      <description>Here&amp;rsquo;s your Saturday morning update&amp;hellip; wait, it&amp;rsquo;s Saturday already?!&#xA;Wireless is working well again - we think we have a hold on the rebooting AP&amp;rsquo;s. We are curious if the ninja badges are interfering with wifi (or is our wifi interferring with the badges? The badges have the ninjas; does that make DefCon&amp;rsquo;s wifi the pirates?! FIGHT!)&#xA;Wired network (speakers, press, staff) - 5x5. Someone asked for a 30&amp;rsquo;ft cross-over cable today.</description>
+    </item>
+    <item>
+      <title>FRI @ 1705</title>
+      <link>https://noc.defcon.org/posts/dc18/fri1705/</link>
+      <pubDate>Fri, 30 Jul 2010 17:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/fri1705/</guid>
+      <description>Can you tell where we re-booted the wireless network? :)</description>
+    </item>
+    <item>
+      <title>Wireless AP&#39;s having issues</title>
+      <link>https://noc.defcon.org/posts/dc18/wirelessapshavingissues/</link>
+      <pubDate>Fri, 30 Jul 2010 16:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/wirelessapshavingissues/</guid>
+      <description>The wifi access points are randomly rebooting (cycling about every 15 mins). We&amp;rsquo;re working on fixing it now.</description>
+    </item>
+    <item>
+      <title>iPhone/iPad Fix!</title>
+      <link>https://noc.defcon.org/posts/dc18/iphoneipadfix/</link>
+      <pubDate>Fri, 30 Jul 2010 14:25:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/iphoneipadfix/</guid>
+      <description>We found a fix for all you iPhone/iPad users. It&amp;rsquo;s a known issue with Apple devices, apparently.&#xA;The work-around is here.&#xA;Thank you Princeton IT Group for the help!</description>
+    </item>
+    <item>
+      <title>Fri @ 1242</title>
+      <link>https://noc.defcon.org/posts/dc18/fri1242/</link>
+      <pubDate>Fri, 30 Jul 2010 12:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/fri1242/</guid>
+      <description>Bandwidth &amp;amp; Users at 12:42p - we&amp;rsquo;re clearly using the bandwidth (THANKS!) and have more users online simultaneously than ever before. Half of you are on the DefCon-Secure wifi network.</description>
+    </item>
+    <item>
+      <title>Apple iOS on DC18 Network</title>
+      <link>https://noc.defcon.org/posts/dc18/appleiosondc18network/</link>
+      <pubDate>Fri, 30 Jul 2010 12:41:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/appleiosondc18network/</guid>
+      <description>We&amp;rsquo;re continuing to research the issue with iPhones / iPads on the network. We&amp;rsquo;re currently testing a potential resolution and will update you when we have confirmed it.</description>
+    </item>
+    <item>
+      <title>DefCon 18 Begins</title>
+      <link>https://noc.defcon.org/posts/dc18/defcon18begins/</link>
+      <pubDate>Thu, 29 Jul 2010 09:55:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/defcon18begins/</guid>
+      <description>DefCon has opened. The network is functioning.&#xA;Two issues you should be aware of&amp;hellip;&#xA;https://wifireg.defcon.org - Sorry, we forgot to ask DT to put this in his public DNS servers (fail!) - so that&amp;rsquo;s happening now. It works from the internal network ok. Or from the external network you can use https://208.95.78.182 until DNS propogates.&#xA;We&amp;rsquo;ve noticed some mobile devices (mostly ipads) are having issues renewing their IP after coming out of sleep.</description>
+    </item>
+    <item>
+      <title>Twas the day before DefCon...</title>
+      <link>https://noc.defcon.org/posts/dc18/twasthedaybeforedefcon/</link>
+      <pubDate>Wed, 28 Jul 2010 11:10:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/twasthedaybeforedefcon/</guid>
+      <description>Had a long day yesterday - we caught up on things and got things to about 80% complete.&#xA;The understanding of DefCon hit Jesse&amp;hellip;&#xA;&amp;ldquo;DefCon is all about drinking all day and staying out until 0600 and then getting up at 0700&amp;rdquo;&#xA;This morning we&amp;rsquo;re running around, getting everything patched up, switches dropped, wifiz re-verified. Everything is on-track to be finished by the end of today.</description>
+    </item>
+    <item>
+      <title>T-3</title>
+      <link>https://noc.defcon.org/posts/dc18/t3/</link>
+      <pubDate>Mon, 26 Jul 2010 00:31:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/t3/</guid>
+      <description>The first day of setup ended about midnight last night. The Inter-webs came up quickly after we had breakfast. The NOC is live &amp;amp; fully functional. The Queen Victoria Pub doth rocketh. Our WiFiz got delayed, but since it&amp;rsquo;s the same (physical) setup as last year we just need to unpack &amp;amp; go. App servers are up &amp;amp; functional. All &amp;amp; all, things are coming along nicely. We have to be completely done by EOD Wednesday (which is anytime before 8a Thursday).</description>
+    </item>
+    <item>
+      <title>It Begins!</title>
+      <link>https://noc.defcon.org/posts/dc18/itbegins/</link>
+      <pubDate>Fri, 23 Jul 2010 18:55:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/itbegins/</guid>
+      <description>Two days before the DCNET staff arrive in Vegas.&#xA;Everything&amp;rsquo;s ready.&#xA;Most things are packed up.&#xA;PC&amp;rsquo;s Servers spare servers cables switches (old &amp;amp; new) radios Internet connection is already dropped &amp;amp; active.&#xA;Hotel is pulling cable already.&#xA;WiFi&amp;rsquo;s setup&#xA;we setup 802.1x/WPA2 now someone&amp;rsquo;s going to talk at Blackhat about a possible sploit? Bah! DCTV&amp;rsquo;s rarin&amp;rsquo; to go.&#xA;DefCon Mobile Edition is ready for production.&#xA;What&amp;rsquo;s left?&#xA;Oh yeah, last minute requests :)</description>
+    </item>
+    <item>
+      <title>Productive Weekend</title>
+      <link>https://noc.defcon.org/posts/dc18/productiveweekend/</link>
+      <pubDate>Mon, 12 Jul 2010 00:48:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/productiveweekend/</guid>
+      <description>WiFi self-reg is all set, tested, validated.&#xA;Data for all speakers, con-events, and DJ&amp;rsquo;s are loaded into the World Domination Database (thanks to Neil &amp;amp; Nikita for providing the data) - the back-end for the DefCon18 Mobile Edition agenda. Still have to load contests once I get some more infoz. t3ase continues his work on CSS-ifying DC-ME (no pressure!).&#xA;Plus, Mac &amp;amp; Videoman have the core infrastructure laid out &amp;amp; base configs completed.</description>
+    </item>
+    <item>
+      <title>Secure WiFi</title>
+      <link>https://noc.defcon.org/posts/dc18/securewifi/</link>
+      <pubDate>Sat, 10 Jul 2010 11:20:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/securewifi/</guid>
+      <description>effffn &amp;amp; I stayed up late last night &amp;amp; got the secure wifi configuration working. I want to do some cleanup on the radius config files, but we have working WPA2 + 802.1x setup!&#xA;I&amp;rsquo;m setting up &amp;ldquo;self registration&amp;rdquo; so attendees can create their own logins for the system today. I hope Neil doesn&amp;rsquo;t mind I&amp;rsquo;m stealing his CSS :)</description>
+    </item>
+    <item>
+      <title>Not long now...!</title>
+      <link>https://noc.defcon.org/posts/dc18/notlongnow/</link>
+      <pubDate>Thu, 08 Jul 2010 18:44:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/notlongnow/</guid>
+      <description>We got tweeted! Well, it&amp;rsquo;s not as being slashdotted (don&amp;rsquo;t get any ideas!) - but thanks for DT or Neil for giving us the shout-out!&#xA;20 days until DC18 starts!&#xA;It&amp;rsquo;s definitely going to be an interesting year with floorplan changes, wifi changes, focus on DCTV &amp;amp; a/v streaming (shouts to DJ Great Scott for being so easy to work with, btw!). And the DefCon Confessional is BACK!&#xA;We&amp;rsquo;re even jumping in and providing a &amp;ldquo;Mobile Edition&amp;rdquo; agenda webapp that will be available locally.</description>
+    </item>
+    <item>
+      <title>Bandwidth</title>
+      <link>https://noc.defcon.org/posts/dc18/bandwidth/</link>
+      <pubDate>Fri, 18 Jun 2010 16:39:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/bandwidth/</guid>
+      <description>DefCon18 - 40 days away.&#xA;Bandwidth contract has been signed. Let&amp;rsquo;s just say, between you &amp;amp; mean, that it&amp;rsquo;s unprecedented bandwidth (WRT DefCon).</description>
+    </item>
+    <item>
+      <title>Two Months &amp; Counting</title>
+      <link>https://noc.defcon.org/posts/dc18/twomonthscounting/</link>
+      <pubDate>Tue, 01 Jun 2010 19:40:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/twomonthscounting/</guid>
+      <description>We have a lot going on this year, preparing for your use &amp;amp; pleasure. Let me catch you up&amp;hellip;&#xA;We&amp;rsquo;re planning on having a &amp;lsquo;secure&amp;rsquo; segment of the wireless this year. Designed so you can get on and be (as sure as possible) that no one&amp;rsquo;s sniffing your traffic and you won&amp;rsquo;t get jacked up.&#xA;We know 3G is getting saturated, so you need to feel OK putting your phone or device on the net just to get to the Internet (and yes, more bandwidth for everyone!</description>
+    </item>
+    <item>
+      <title>Happy New Year!</title>
+      <link>https://noc.defcon.org/posts/dc18/happynewyear/</link>
+      <pubDate>Mon, 25 Jan 2010 08:41:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc18/happynewyear/</guid>
+      <description>We wanted to wish everyone a very Happy New Year (now that January is almost over?)&#xA;We still owe posting configs for peer review - apologies that it hasn&amp;rsquo;t been done yet. Following DefCon each year everyone tends to go into hibernation until the New Year. But as we easy into the new year DC18 planning starts up. We&amp;rsquo;ll try to get that done real soon for you.&#xA;DT &amp;amp; I have talked about trying some new interactivity at DC18.</description>
+    </item>
+    <item>
+      <title>Wired Article</title>
+      <link>https://noc.defcon.org/posts/dc17/wiredarticle/</link>
+      <pubDate>Thu, 06 Aug 2009 11:21:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/wiredarticle/</guid>
+      <description>Dave Bullock did a summary write-up &amp;amp; photos from the DC Networking efforts again this year - check it out!&#xA;http://www.wired.com/threatlevel/2009/08/inside-the-worlds-most-hostile-network</description>
+    </item>
+    <item>
+      <title>The sad state of press</title>
+      <link>https://noc.defcon.org/posts/dc17/thesadstateofpress/</link>
+      <pubDate>Tue, 04 Aug 2009 14:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/thesadstateofpress/</guid>
+      <description>I&amp;rsquo;ll cross-post on the DC Forums for further discussion. [EDIT: posted here]&#xA;I saw a story posted over on CNET.&#xA;I&amp;rsquo;m always a bit disappointed when media propagate the &amp;ldquo;don&amp;rsquo;t use the network at the events&amp;rdquo; item. It&amp;rsquo;s scare-mongering for headlines (IMHO). DefCon is a security event. Expect shenanigans, but don&amp;rsquo;t scare people away.&#xA;Good practices can keep you secure, just as they will on the Internet. Turn on your firewall, patch your system and apps, don&amp;rsquo;t keep confidential information on your laptop.</description>
+    </item>
+    <item>
+      <title>DC17 Closing</title>
+      <link>https://noc.defcon.org/posts/dc17/dc17closing/</link>
+      <pubDate>Tue, 04 Aug 2009 09:54:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/dc17closing/</guid>
+      <description>Thanks everyone for their support and efforts to make DefCon17 the best ever. This year, even though we added Thursday into the official schedule, was really smooth operationally. Plus with (what I would personally describe as) record crowds&amp;hellip;wow! Thanks to both all staff and all attendees for kicking ass!&#xA;As always, we have the slides I used at Closing for you here (PDF, 12MB)&#xA;Let us all get home, catch up on some sleep, and we&amp;rsquo;ll start working on sanitizing the PF configs and we&amp;rsquo;ll get that posted for peer-review.</description>
+    </item>
+    <item>
+      <title>Day 3 @ 1232</title>
+      <link>https://noc.defcon.org/posts/dc17/day31232/</link>
+      <pubDate>Sun, 02 Aug 2009 12:34:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day31232/</guid>
+      <description>Traffic&amp;rsquo;s down today - people must still be asleep :) We had to reboot the firewall last night, we&amp;rsquo;re pretty sure it&amp;rsquo;s a hardware issue, so we&amp;rsquo;ll have to get that replaced for next year.&#xA;Starting to put together stats &amp;amp; facts (and embarrassing photos) for closing ceremonies. Wow, is it Sunday already?!</description>
+    </item>
+    <item>
+      <title>Day 2 @ 1500 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day21500bwutilization/</link>
+      <pubDate>Sat, 01 Aug 2009 15:10:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day21500bwutilization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Day 2 @ 1000 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day21000bwutilization/</link>
+      <pubDate>Sat, 01 Aug 2009 10:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day21000bwutilization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stats @ 1915</title>
+      <link>https://noc.defcon.org/posts/dc17/stats1915/</link>
+      <pubDate>Fri, 31 Jul 2009 19:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/stats1915/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wonder if...</title>
+      <link>https://noc.defcon.org/posts/dc17/wonderif/</link>
+      <pubDate>Fri, 31 Jul 2009 17:29:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/wonderif/</guid>
+      <description>We suspect the major bandwidth usage is due to everyone downloading the iPhone OS update. Need more analysis (and beer). oh, wait, look beer&amp;hellip;!</description>
+    </item>
+    <item>
+      <title>Day 1 @ 1640 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day11640bwutilization/</link>
+      <pubDate>Fri, 31 Jul 2009 16:41:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day11640bwutilization/</guid>
+      <description>Traffic to/from the Internetz currently&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Day 1 @ 1435 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day11435bwutilization/</link>
+      <pubDate>Fri, 31 Jul 2009 14:38:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day11435bwutilization/</guid>
+      <description>Traffic to/from the Internetz currently&amp;hellip;&#xA;Compare to DC16&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Day 1 @ 1120 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day11120bwutilization/</link>
+      <pubDate>Fri, 31 Jul 2009 11:29:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day11120bwutilization/</guid>
+      <description>Traffic to/from the Internetz currently&amp;hellip;</description>
+    </item>
+    <item>
+      <title>DefCon Network Session Presentation</title>
+      <link>https://noc.defcon.org/posts/dc17/defconnetworksessionpresentation/</link>
+      <pubDate>Fri, 31 Jul 2009 09:16:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/defconnetworksessionpresentation/</guid>
+      <description>As promised, here is the presentation from yesterday&amp;rsquo;s DC Network Session talk/discussion &amp;ndash;&amp;gt; click me&#xA;From the whole DCNET team, thanks to everyone who showed up! I hope it was useful - it was really hard to do a detailed peer-review of the configs in that environments, so we&amp;rsquo;ll start with firewall rulesets (post-con) and get a discussion started on the DefCon Forums. Look for those shortly.&#xA;If you have any ideas on what else we can bring to the network environment to make it useful (e.</description>
+    </item>
+    <item>
+      <title>DefCon Network Setup Complete</title>
+      <link>https://noc.defcon.org/posts/dc17/defconnetworksetupcomplete/</link>
+      <pubDate>Wed, 29 Jul 2009 17:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/defconnetworksetupcomplete/</guid>
+      <description>Yes, we&amp;rsquo;re done. Earliest EVER! Everything is patched &amp;amp; verified.&#xA;Only remaining housekeeping items are distributing desktop switches tomorrow, and setting up the Table of Doom switch (potentially being renamed as the Ottoman of Terror). Also, we&amp;rsquo;ll throw DCTV live tomorrow morning as soon as AV is in.&#xA;Now then&amp;hellip;there&amp;rsquo;s this matter of speaking tomorrow&amp;hellip;I should figure out what that&amp;rsquo;s going to be.</description>
+    </item>
+    <item>
+      <title>Setup Day 3</title>
+      <link>https://noc.defcon.org/posts/dc17/setupday3/</link>
+      <pubDate>Wed, 29 Jul 2009 10:12:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/setupday3/</guid>
+      <description>Network setup continues.&#xA;Got a lot of the patching done yesterday (what we are &amp;ldquo;allowed&amp;rdquo; to do versus hotel IT and/or AV)(trying to figure out what IT is supposed to do versus AV is really confusing at times).&#xA;Videoman, Mac, and Sparky just took off with IT to go finish up patching for the contest area and the capri rooms.&#xA;Derek&amp;rsquo;s got DCTV going.&#xA;The DCInfoBooth guys are setting up their server in the NOC now.</description>
+    </item>
+    <item>
+      <title>New Site Live</title>
+      <link>https://noc.defcon.org/posts/dc17/newsitelive/</link>
+      <pubDate>Tue, 28 Jul 2009 13:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/newsitelive/</guid>
+      <description>The new DefConNetworking.org site is live. And we did it before we started drinking (much).&#xA;Core network is setup &amp;amp; fully functional. Wifi is mostly up (Hotel will finish up after lunch). The team is working on getting all network requests patched through to their destinations. Life is good.</description>
+    </item>
+    <item>
+      <title>OMW!</title>
+      <link>https://noc.defcon.org/posts/dc17/omw/</link>
+      <pubDate>Sat, 25 Jul 2009 21:34:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/omw/</guid>
+      <description>The DCNET team is already on it&amp;rsquo;s way to Vegas! Most of us arrive Sunday, with the Canuck&amp;rsquo;s on Monday (or is it Tuesday?).&#xA;Equipment has already arrived.&#xA;Lock will, again, attempt to not flip his vehicle this year (today marks 4 years since it happened!).&#xA;Also, look for an update to the website this week, before the show starts.</description>
+    </item>
+    <item>
+      <title>T-3 weeks</title>
+      <link>https://noc.defcon.org/posts/dc17/t3weeks/</link>
+      <pubDate>Sun, 05 Jul 2009 16:21:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/t3weeks/</guid>
+      <description>Pardon the lack of updates this year. It&amp;rsquo;s been crazy-hectic, but we have been working behind the scenes doing our things, in spite of the lack of communications.&#xA;Derek has something pretty kick-ass lined up for letting you show your pretty face on DefCon TV this year. &amp;ldquo;DefCon Idol&amp;rdquo;? No no. We know you can&amp;rsquo;t sing, nor would we ask you do. But be on the look out for something with a big green button!</description>
+    </item>
+    <item>
+      <title>The DefCon Network Sessions</title>
+      <link>https://noc.defcon.org/posts/dc17/thedefconnetworksessions/</link>
+      <pubDate>Sun, 21 Jun 2009 14:52:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/thedefconnetworksessions/</guid>
+      <description>For years, the inner-workings of the DefCon NOC were kept under wraps. Last year Wired was allowed a sneak-peak inside.&#xA;This year at DefCon17 we are opening the kimono. In true open-source style, we are holding a peer-review discussion session. We will be showing you how the DefCon NOC operates, how the network is laid out, designed, what it is we do.&#xA;This is not a typical lecture-style talk, but instead intended to be an interactive session, which is why we&amp;rsquo;ve arranged to hold it in the more intimate setting.</description>
+    </item>
+    <item>
+      <title>First Post (ZOMFG!)</title>
+      <link>https://noc.defcon.org/posts/dc17/firstpostzomfg/</link>
+      <pubDate>Mon, 09 Mar 2009 15:45:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/firstpostzomfg/</guid>
+      <description>The planning has begun. There may be squirrels.</description>
+    </item>
+    <item>
+      <title>DCNET in Wired</title>
+      <link>https://noc.defcon.org/posts/dc16/dcnetinwired/</link>
+      <pubDate>Mon, 11 Aug 2008 01:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/dcnetinwired/</guid>
+      <description>Dave Bullock over at Wired&amp;rsquo;s Blog posted the First Ever Look Inside the DefCon Network Operations Center. Check it out! Props to everyone on staff for being amazingly organized this year and giving it 120% to have our stuff solid and ahead of schedule this year!&#xA;Oh, and it got reported on Slashdot.</description>
+    </item>
+    <item>
+      <title>Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc16/postcon/</link>
+      <pubDate>Sun, 10 Aug 2008 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/postcon/</guid>
+      <description>And we&amp;rsquo;re done! Sorry we didn&amp;rsquo;t get a chance to present our stuff at Closing Ceremonies. However, we&amp;rsquo;re always here for you. We got our final stats &amp;amp; fun posted online here (PPT, 6MB) for you to review.&#xA;Don&amp;rsquo;t hesistate to send us questions or comments! We&amp;rsquo;ll be back next year, and we have some ideas on how to get you MORE INVOLVED next year in the DefCon Network! CHEERS!</description>
+    </item>
+    <item>
+      <title>General Update</title>
+      <link>https://noc.defcon.org/posts/dc16/generalupdate/</link>
+      <pubDate>Sat, 26 Jul 2008 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/generalupdate/</guid>
+      <description>Damn, I&amp;rsquo;ve been slow in updates. The planning has been busy, however. Final network plans are done. Bandwidth is procurred. WiFi for EVERYONE! :)&#xA;The hotel did some big upgrades on their network infrastructure this year; we&amp;rsquo;ve reviewed it with them (and approve!). We&amp;rsquo;ve gotten some new gear which should boost stability in our core network, as well. We&amp;rsquo;re trying to do very little new this year so we can focus on increased stablity and coverage.</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://noc.defcon.org/posts/dc16/firstpost/</link>
+      <pubDate>Sat, 15 Mar 2008 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/firstpost/</guid>
+      <description>Planning has begun! We had our first face-to-face meeting a couple weeks ago in a Very Cold Place. Many of us will be attending Layer One in Pasadena, CA, in May&amp;ndash; so we&amp;rsquo;ll have another face-to-face there and should be thru 40-50% of our planning at that point.&#xA;DCTV will be in full effect. Derek has some ideas&amp;ndash;which could be quite killer.&#xA;Last year we did the Table of Doom (the official network-capture opportunity).</description>
+    </item>
+    <item>
+      <title>Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc15/postcon/</link>
+      <pubDate>Sun, 05 Aug 2007 16:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/postcon/</guid>
+      <description>DefCon 15 is OVER! Damned good show! There were, of course, some issues, but we worked thru them. The closing ceremonies format was changed so we didn&amp;rsquo;t get to present our awesome powerpoint slides with the stats &amp;amp; stuff - but we had to go ahead &amp;amp; get it posted for you guys. You can download it here.</description>
+    </item>
+    <item>
+      <title>Another Update</title>
+      <link>https://noc.defcon.org/posts/dc15/anotherupdate/</link>
+      <pubDate>Tue, 10 Jul 2007 16:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/anotherupdate/</guid>
+      <description>Haven&amp;rsquo;t had an update in a while - so it&amp;rsquo;s probably time :)&#xA;This year - 10Mb of bandwidth. It&amp;rsquo;s a done deal.&#xA;DCTV This year we&amp;rsquo;re doing a YouTube-like system so YOU can provide content to DCTV. The DCTV will be broadcast over the convention CATV system. The skyboxes, the hallways, all the con space where there&amp;rsquo;s a TV, there&amp;rsquo;s DCTV. We&amp;rsquo;re working to try to get a TV or two setup in the hang-out area, too.</description>
+    </item>
+    <item>
+      <title>ToD Update</title>
+      <link>https://noc.defcon.org/posts/dc15/todupdate/</link>
+      <pubDate>Thu, 07 Jun 2007 16:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/todupdate/</guid>
+      <description>We&amp;rsquo;ve reserved-out all our slots for the Table O&amp;rsquo; Doom. You&amp;rsquo;re welcome to submit your name as a backup, in case someone does not make it, or we have add&amp;rsquo;l space open up. Thanks for the great response!</description>
+    </item>
+    <item>
+      <title>The Table of Doom</title>
+      <link>https://noc.defcon.org/posts/dc15/thetableofdoom/</link>
+      <pubDate>Tue, 15 May 2007 15:57:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/thetableofdoom/</guid>
+      <description>Slot 1 - TAKEN Slot 2 - TAKEN Slot 3 - TAKEN Slot 4 - TAKEN Slot 5 - TAKEN Slot 6 - TAKEN Slot 7 - TAKEN Slot 8 - TAKEN DefCon presents a really unique opportunity. You know how hostile the environment is. Have you ever wondered what that traffic looks like? All you need do is ask. For years we&amp;rsquo;ve provided people the ability to plug in a capture/sniffer box and capture public con traffic to take back to your Evil Laboratory(tm) for analysis after con (you know, once you&amp;rsquo;ve sobered up &amp;amp; stuff).</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://noc.defcon.org/posts/dc15/firstpost/</link>
+      <pubDate>Fri, 11 May 2007 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/firstpost/</guid>
+      <description>Why yes, we are in the midst of planning for DC15. Now that we&amp;rsquo;ve &amp;ldquo;done the dance&amp;rdquo; with the hotel (who are awesome folks, btw!) we know what we can and can&amp;rsquo;t do and should have virtually no surprizes this year. We&amp;rsquo;re planning higher bandwidth, better monitoring, and also some new interactive-type stuff (I hesitate speaking of it for fear of jinxing it!). We&amp;rsquo;re actually spending our funds boosting up our own infrastructure (beyond the Arbua kit we have) so we have more ports, better fibre connectivity, better trunking.</description>
+    </item>
+    <item>
+      <title>Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc14/postcon/</link>
+      <pubDate>Sat, 05 Aug 2006 16:04:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc14/postcon/</guid>
+      <description>Here are the PPT slides from DC14 Closing Ceremonies with all the net stats:&#xA;dc14network.ppt&#xA;Questions? noc-[at]-defconnetworking.org</description>
+    </item>
+  </channel>
+</rss>

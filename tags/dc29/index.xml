@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC29 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc29/</link>
+    <description>Recent content in DC29 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Aug 2021 14:36:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc29/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We&#39;re back and... DEF CON 29 in the books</title>
+      <link>https://noc.defcon.org/posts/dc29/dc29inthebooks/</link>
+      <pubDate>Mon, 09 Aug 2021 14:36:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc29/dc29inthebooks/</guid>
+      <description>effffn, mac and DEF CON would like to thank the hard-working NOC Goons for making the on-site conference network, well, work.&#xA;#sparky, booger, CRV, c0mmiebstrd, Dp1i, c7five, Jon2, deadication, musa, wish, johntitor, MikeD and Toph put in long hours (some on-site and some remotely) in making sure everything worked at least at one point in time. And then got them fixed when you (or quite possibly we) broke something.&#xA;As usual, also a huge thank you to Caesars IT and Encore for making our lives a bit easier.</description>
+    </item>
+  </channel>
+</rss>

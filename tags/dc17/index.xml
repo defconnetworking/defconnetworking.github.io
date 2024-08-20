@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC17 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc17/</link>
+    <description>Recent content in DC17 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Aug 2009 11:21:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc17/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wired Article</title>
+      <link>https://noc.defcon.org/posts/dc17/wiredarticle/</link>
+      <pubDate>Thu, 06 Aug 2009 11:21:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/wiredarticle/</guid>
+      <description>Dave Bullock did a summary write-up &amp;amp; photos from the DC Networking efforts again this year - check it out!&#xA;http://www.wired.com/threatlevel/2009/08/inside-the-worlds-most-hostile-network</description>
+    </item>
+    <item>
+      <title>The sad state of press</title>
+      <link>https://noc.defcon.org/posts/dc17/thesadstateofpress/</link>
+      <pubDate>Tue, 04 Aug 2009 14:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/thesadstateofpress/</guid>
+      <description>I&amp;rsquo;ll cross-post on the DC Forums for further discussion. [EDIT: posted here]&#xA;I saw a story posted over on CNET.&#xA;I&amp;rsquo;m always a bit disappointed when media propagate the &amp;ldquo;don&amp;rsquo;t use the network at the events&amp;rdquo; item. It&amp;rsquo;s scare-mongering for headlines (IMHO). DefCon is a security event. Expect shenanigans, but don&amp;rsquo;t scare people away.&#xA;Good practices can keep you secure, just as they will on the Internet. Turn on your firewall, patch your system and apps, don&amp;rsquo;t keep confidential information on your laptop.</description>
+    </item>
+    <item>
+      <title>DC17 Closing</title>
+      <link>https://noc.defcon.org/posts/dc17/dc17closing/</link>
+      <pubDate>Tue, 04 Aug 2009 09:54:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/dc17closing/</guid>
+      <description>Thanks everyone for their support and efforts to make DefCon17 the best ever. This year, even though we added Thursday into the official schedule, was really smooth operationally. Plus with (what I would personally describe as) record crowds&amp;hellip;wow! Thanks to both all staff and all attendees for kicking ass!&#xA;As always, we have the slides I used at Closing for you here (PDF, 12MB)&#xA;Let us all get home, catch up on some sleep, and we&amp;rsquo;ll start working on sanitizing the PF configs and we&amp;rsquo;ll get that posted for peer-review.</description>
+    </item>
+    <item>
+      <title>Day 3 @ 1232</title>
+      <link>https://noc.defcon.org/posts/dc17/day31232/</link>
+      <pubDate>Sun, 02 Aug 2009 12:34:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day31232/</guid>
+      <description>Traffic&amp;rsquo;s down today - people must still be asleep :) We had to reboot the firewall last night, we&amp;rsquo;re pretty sure it&amp;rsquo;s a hardware issue, so we&amp;rsquo;ll have to get that replaced for next year.&#xA;Starting to put together stats &amp;amp; facts (and embarrassing photos) for closing ceremonies. Wow, is it Sunday already?!</description>
+    </item>
+    <item>
+      <title>Day 2 @ 1500 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day21500bwutilization/</link>
+      <pubDate>Sat, 01 Aug 2009 15:10:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day21500bwutilization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Day 2 @ 1000 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day21000bwutilization/</link>
+      <pubDate>Sat, 01 Aug 2009 10:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day21000bwutilization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stats @ 1915</title>
+      <link>https://noc.defcon.org/posts/dc17/stats1915/</link>
+      <pubDate>Fri, 31 Jul 2009 19:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/stats1915/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wonder if...</title>
+      <link>https://noc.defcon.org/posts/dc17/wonderif/</link>
+      <pubDate>Fri, 31 Jul 2009 17:29:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/wonderif/</guid>
+      <description>We suspect the major bandwidth usage is due to everyone downloading the iPhone OS update. Need more analysis (and beer). oh, wait, look beer&amp;hellip;!</description>
+    </item>
+    <item>
+      <title>Day 1 @ 1640 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day11640bwutilization/</link>
+      <pubDate>Fri, 31 Jul 2009 16:41:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day11640bwutilization/</guid>
+      <description>Traffic to/from the Internetz currently&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Day 1 @ 1435 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day11435bwutilization/</link>
+      <pubDate>Fri, 31 Jul 2009 14:38:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day11435bwutilization/</guid>
+      <description>Traffic to/from the Internetz currently&amp;hellip;&#xA;Compare to DC16&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Day 1 @ 1120 - BW Utilization</title>
+      <link>https://noc.defcon.org/posts/dc17/day11120bwutilization/</link>
+      <pubDate>Fri, 31 Jul 2009 11:29:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/day11120bwutilization/</guid>
+      <description>Traffic to/from the Internetz currently&amp;hellip;</description>
+    </item>
+    <item>
+      <title>DefCon Network Session Presentation</title>
+      <link>https://noc.defcon.org/posts/dc17/defconnetworksessionpresentation/</link>
+      <pubDate>Fri, 31 Jul 2009 09:16:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/defconnetworksessionpresentation/</guid>
+      <description>As promised, here is the presentation from yesterday&amp;rsquo;s DC Network Session talk/discussion &amp;ndash;&amp;gt; click me&#xA;From the whole DCNET team, thanks to everyone who showed up! I hope it was useful - it was really hard to do a detailed peer-review of the configs in that environments, so we&amp;rsquo;ll start with firewall rulesets (post-con) and get a discussion started on the DefCon Forums. Look for those shortly.&#xA;If you have any ideas on what else we can bring to the network environment to make it useful (e.</description>
+    </item>
+    <item>
+      <title>DefCon Network Setup Complete</title>
+      <link>https://noc.defcon.org/posts/dc17/defconnetworksetupcomplete/</link>
+      <pubDate>Wed, 29 Jul 2009 17:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/defconnetworksetupcomplete/</guid>
+      <description>Yes, we&amp;rsquo;re done. Earliest EVER! Everything is patched &amp;amp; verified.&#xA;Only remaining housekeeping items are distributing desktop switches tomorrow, and setting up the Table of Doom switch (potentially being renamed as the Ottoman of Terror). Also, we&amp;rsquo;ll throw DCTV live tomorrow morning as soon as AV is in.&#xA;Now then&amp;hellip;there&amp;rsquo;s this matter of speaking tomorrow&amp;hellip;I should figure out what that&amp;rsquo;s going to be.</description>
+    </item>
+    <item>
+      <title>Setup Day 3</title>
+      <link>https://noc.defcon.org/posts/dc17/setupday3/</link>
+      <pubDate>Wed, 29 Jul 2009 10:12:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/setupday3/</guid>
+      <description>Network setup continues.&#xA;Got a lot of the patching done yesterday (what we are &amp;ldquo;allowed&amp;rdquo; to do versus hotel IT and/or AV)(trying to figure out what IT is supposed to do versus AV is really confusing at times).&#xA;Videoman, Mac, and Sparky just took off with IT to go finish up patching for the contest area and the capri rooms.&#xA;Derek&amp;rsquo;s got DCTV going.&#xA;The DCInfoBooth guys are setting up their server in the NOC now.</description>
+    </item>
+    <item>
+      <title>New Site Live</title>
+      <link>https://noc.defcon.org/posts/dc17/newsitelive/</link>
+      <pubDate>Tue, 28 Jul 2009 13:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/newsitelive/</guid>
+      <description>The new DefConNetworking.org site is live. And we did it before we started drinking (much).&#xA;Core network is setup &amp;amp; fully functional. Wifi is mostly up (Hotel will finish up after lunch). The team is working on getting all network requests patched through to their destinations. Life is good.</description>
+    </item>
+    <item>
+      <title>OMW!</title>
+      <link>https://noc.defcon.org/posts/dc17/omw/</link>
+      <pubDate>Sat, 25 Jul 2009 21:34:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/omw/</guid>
+      <description>The DCNET team is already on it&amp;rsquo;s way to Vegas! Most of us arrive Sunday, with the Canuck&amp;rsquo;s on Monday (or is it Tuesday?).&#xA;Equipment has already arrived.&#xA;Lock will, again, attempt to not flip his vehicle this year (today marks 4 years since it happened!).&#xA;Also, look for an update to the website this week, before the show starts.</description>
+    </item>
+    <item>
+      <title>T-3 weeks</title>
+      <link>https://noc.defcon.org/posts/dc17/t3weeks/</link>
+      <pubDate>Sun, 05 Jul 2009 16:21:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/t3weeks/</guid>
+      <description>Pardon the lack of updates this year. It&amp;rsquo;s been crazy-hectic, but we have been working behind the scenes doing our things, in spite of the lack of communications.&#xA;Derek has something pretty kick-ass lined up for letting you show your pretty face on DefCon TV this year. &amp;ldquo;DefCon Idol&amp;rdquo;? No no. We know you can&amp;rsquo;t sing, nor would we ask you do. But be on the look out for something with a big green button!</description>
+    </item>
+    <item>
+      <title>The DefCon Network Sessions</title>
+      <link>https://noc.defcon.org/posts/dc17/thedefconnetworksessions/</link>
+      <pubDate>Sun, 21 Jun 2009 14:52:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/thedefconnetworksessions/</guid>
+      <description>For years, the inner-workings of the DefCon NOC were kept under wraps. Last year Wired was allowed a sneak-peak inside.&#xA;This year at DefCon17 we are opening the kimono. In true open-source style, we are holding a peer-review discussion session. We will be showing you how the DefCon NOC operates, how the network is laid out, designed, what it is we do.&#xA;This is not a typical lecture-style talk, but instead intended to be an interactive session, which is why we&amp;rsquo;ve arranged to hold it in the more intimate setting.</description>
+    </item>
+    <item>
+      <title>First Post (ZOMFG!)</title>
+      <link>https://noc.defcon.org/posts/dc17/firstpostzomfg/</link>
+      <pubDate>Mon, 09 Mar 2009 15:45:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc17/firstpostzomfg/</guid>
+      <description>The planning has begun. There may be squirrels.</description>
+    </item>
+  </channel>
+</rss>

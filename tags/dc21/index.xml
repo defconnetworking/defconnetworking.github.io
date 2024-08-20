@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC21 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc21/</link>
+    <description>Recent content in DC21 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Aug 2013 15:30:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEFCONSecure Taken Down</title>
+      <link>https://noc.defcon.org/posts/dc21/defconsecuretakendown/</link>
+      <pubDate>Sun, 04 Aug 2013 15:30:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/defconsecuretakendown/</guid>
+      <description>DEFCONSecure has been shutdown due to 802.1x vulnerabilities. There is no known ETA for restoration at this time.</description>
+    </item>
+    <item>
+      <title>Sunday Morning WiFi Attack Counts</title>
+      <link>https://noc.defcon.org/posts/dc21/sundaymorningwifiattackcounts/</link>
+      <pubDate>Sun, 04 Aug 2013 13:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/sundaymorningwifiattackcounts/</guid>
+      <description>Updated WiFi Attack Counts:</description>
+    </item>
+    <item>
+      <title>Current Bandwidth Report</title>
+      <link>https://noc.defcon.org/posts/dc21/currentbandwidthreport/</link>
+      <pubDate>Thu, 01 Aug 2013 20:18:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/currentbandwidthreport/</guid>
+      <description>Not bad, guys. We expect to see this number possibly double though throughout the next couple of days&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Updated Attack Counts</title>
+      <link>https://noc.defcon.org/posts/dc21/updatedattackcounts/</link>
+      <pubDate>Thu, 01 Aug 2013 18:58:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/updatedattackcounts/</guid>
+      <description>As of 15:45, the updated attack counts are:</description>
+    </item>
+    <item>
+      <title>We&#39;re Watching You Better Than the NSA</title>
+      <link>https://noc.defcon.org/posts/dc21/werewatchingyoubetterthanthensa/</link>
+      <pubDate>Thu, 01 Aug 2013 14:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/werewatchingyoubetterthanthensa/</guid>
+      <description>It&amp;rsquo;s been an interesting morning, for sure. The CON has just begun and we&amp;rsquo;re already seeing the attacks begin:&#xA;You guys just don&amp;rsquo;t give up. ;)</description>
+    </item>
+    <item>
+      <title>And So It Begins</title>
+      <link>https://noc.defcon.org/posts/dc21/andsoitbegins/</link>
+      <pubDate>Thu, 01 Aug 2013 10:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc21/andsoitbegins/</guid>
+      <description>Sorry for the lack of updates&amp;hellip;&#xA;Been incredibly busy around here trying to get all of the networks setup and configured. Wireless is up and ready for action, just check out http://wifireg.defcon.org to register.&#xA;Be sure to check out the new and improved instructions, as we issued a new cert for this year.</description>
+    </item>
+  </channel>
+</rss>

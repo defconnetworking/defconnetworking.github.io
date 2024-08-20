@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC24 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc24/</link>
+    <description>Recent content in DC24 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2016 15:18:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc24/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEF CON 24 Closing Ceremonies NOC Slides</title>
+      <link>https://noc.defcon.org/posts/dc24/defcon24closingceremoniesnocslides/</link>
+      <pubDate>Sun, 07 Aug 2016 15:18:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/defcon24closingceremoniesnocslides/</guid>
+      <description>And here you can find the slides for the DC24 NOC review.&#xA;Thanks everyone and see y&amp;rsquo;all at DEF CON 25!</description>
+    </item>
+    <item>
+      <title>THANKS!</title>
+      <link>https://noc.defcon.org/posts/dc24/thanks/</link>
+      <pubDate>Sun, 07 Aug 2016 12:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/thanks/</guid>
+      <description>effffn and DEF CON would like to thank the hard work of the NOC team, not only for the long demanding week in hot Las Vegas but also the months of planning prior to the con.&#xA;There is quite a bit of preparation in every single aspect you can imagine on how to get all the network and internet requests to all of the vendors, speakers, press, contests, attendees and also those convenient DC TV channels for that late morning hangover cure in the convenience of your hotel room.</description>
+    </item>
+    <item>
+      <title>DC TV issues resolved</title>
+      <link>https://noc.defcon.org/posts/dc24/dctvissuesresolved/</link>
+      <pubDate>Sat, 06 Aug 2016 11:15:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/dctvissuesresolved/</guid>
+      <description>It looks like DC TV is stable now after the changes and tuning we have made.</description>
+    </item>
+    <item>
+      <title>DC TV Issues update</title>
+      <link>https://noc.defcon.org/posts/dc24/dctvissuesupdate/</link>
+      <pubDate>Sat, 06 Aug 2016 10:09:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/dctvissuesupdate/</guid>
+      <description>We made some changes in the setup and we are closely monitoring the streams that just started a few minutes ago.&#xA;Tweaks will be made on a per-channel basis and hopefully we will have good news soon.</description>
+    </item>
+    <item>
+      <title>DCTV Issues</title>
+      <link>https://noc.defcon.org/posts/dc24/dctvissues/</link>
+      <pubDate>Fri, 05 Aug 2016 10:53:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/dctvissues/</guid>
+      <description>We are aware DCTV is having intermittent issues and we are currently working on it.</description>
+    </item>
+    <item>
+      <title>DEF CON NOC Team, Response to Register Article</title>
+      <link>https://noc.defcon.org/posts/dc24/defconnocteamresponsetoregisterarticle/</link>
+      <pubDate>Thu, 04 Aug 2016 14:33:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/defconnocteamresponsetoregisterarticle/</guid>
+      <description>In response to the article that was posted by the Register, the DEF CON Network Operations Center Team (NOC) pride ourselves on making a network that allows the community to get Internet access, and have access to internal resources (Servers, etc.). The DEF CON NOC believes in privacy and anonymity for our attendees.&#xA;When users attach to the DefCon Secure (802.1x/PEAP) network, we have made the decision to do our best to make that data/traffic inaccessible, and the team does not allow for data monitoring, nor recording of the traffic.</description>
+    </item>
+    <item>
+      <title>Welcome to DEF CON 24</title>
+      <link>https://noc.defcon.org/posts/dc24/welcometodefcon24/</link>
+      <pubDate>Thu, 04 Aug 2016 14:24:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc24/welcometodefcon24/</guid>
+      <description>howdy!&#xA;We are happy to be here and everything should be up and running at this point in both Paris and Bally&amp;rsquo;s conference centers.&#xA;Also, don&amp;rsquo;t forget to check DC TV in the convenience of your hotel room.</description>
+    </item>
+  </channel>
+</rss>

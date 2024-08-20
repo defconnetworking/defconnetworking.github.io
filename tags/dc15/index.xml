@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC15 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc15/</link>
+    <description>Recent content in DC15 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Aug 2007 16:02:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc15/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc15/postcon/</link>
+      <pubDate>Sun, 05 Aug 2007 16:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/postcon/</guid>
+      <description>DefCon 15 is OVER! Damned good show! There were, of course, some issues, but we worked thru them. The closing ceremonies format was changed so we didn&amp;rsquo;t get to present our awesome powerpoint slides with the stats &amp;amp; stuff - but we had to go ahead &amp;amp; get it posted for you guys. You can download it here.</description>
+    </item>
+    <item>
+      <title>Another Update</title>
+      <link>https://noc.defcon.org/posts/dc15/anotherupdate/</link>
+      <pubDate>Tue, 10 Jul 2007 16:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/anotherupdate/</guid>
+      <description>Haven&amp;rsquo;t had an update in a while - so it&amp;rsquo;s probably time :)&#xA;This year - 10Mb of bandwidth. It&amp;rsquo;s a done deal.&#xA;DCTV This year we&amp;rsquo;re doing a YouTube-like system so YOU can provide content to DCTV. The DCTV will be broadcast over the convention CATV system. The skyboxes, the hallways, all the con space where there&amp;rsquo;s a TV, there&amp;rsquo;s DCTV. We&amp;rsquo;re working to try to get a TV or two setup in the hang-out area, too.</description>
+    </item>
+    <item>
+      <title>ToD Update</title>
+      <link>https://noc.defcon.org/posts/dc15/todupdate/</link>
+      <pubDate>Thu, 07 Jun 2007 16:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/todupdate/</guid>
+      <description>We&amp;rsquo;ve reserved-out all our slots for the Table O&amp;rsquo; Doom. You&amp;rsquo;re welcome to submit your name as a backup, in case someone does not make it, or we have add&amp;rsquo;l space open up. Thanks for the great response!</description>
+    </item>
+    <item>
+      <title>The Table of Doom</title>
+      <link>https://noc.defcon.org/posts/dc15/thetableofdoom/</link>
+      <pubDate>Tue, 15 May 2007 15:57:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/thetableofdoom/</guid>
+      <description>Slot 1 - TAKEN Slot 2 - TAKEN Slot 3 - TAKEN Slot 4 - TAKEN Slot 5 - TAKEN Slot 6 - TAKEN Slot 7 - TAKEN Slot 8 - TAKEN DefCon presents a really unique opportunity. You know how hostile the environment is. Have you ever wondered what that traffic looks like? All you need do is ask. For years we&amp;rsquo;ve provided people the ability to plug in a capture/sniffer box and capture public con traffic to take back to your Evil Laboratory(tm) for analysis after con (you know, once you&amp;rsquo;ve sobered up &amp;amp; stuff).</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://noc.defcon.org/posts/dc15/firstpost/</link>
+      <pubDate>Fri, 11 May 2007 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc15/firstpost/</guid>
+      <description>Why yes, we are in the midst of planning for DC15. Now that we&amp;rsquo;ve &amp;ldquo;done the dance&amp;rdquo; with the hotel (who are awesome folks, btw!) we know what we can and can&amp;rsquo;t do and should have virtually no surprizes this year. We&amp;rsquo;re planning higher bandwidth, better monitoring, and also some new interactive-type stuff (I hesitate speaking of it for fear of jinxing it!). We&amp;rsquo;re actually spending our funds boosting up our own infrastructure (beyond the Arbua kit we have) so we have more ports, better fibre connectivity, better trunking.</description>
+    </item>
+  </channel>
+</rss>

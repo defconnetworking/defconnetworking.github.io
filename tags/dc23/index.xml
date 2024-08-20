@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC23 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc23/</link>
+    <description>Recent content in DC23 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Aug 2015 20:50:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DC23 NOC Review Slides</title>
+      <link>https://noc.defcon.org/posts/dc23/dc23nocreviewslides/</link>
+      <pubDate>Sun, 09 Aug 2015 20:50:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc23/dc23nocreviewslides/</guid>
+      <description>As promised during the closing ceremonies, the DC23 NOC review slides + stats can be found here.&#xA;Thanks everyone! See you at DEF CON 24!</description>
+    </item>
+    <item>
+      <title>Android Devices and 802.1x</title>
+      <link>https://noc.defcon.org/posts/dc23/androiddevicesand8021x/</link>
+      <pubDate>Thu, 06 Aug 2015 15:06:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc23/androiddevicesand8021x/</guid>
+      <description>It seems like there is a number of Android devices that have issues validating the server certificate for 802.1x authentication.&#xA;We did some research and it seems like it is a common issue with different Android OS and hardware flavors. We can’t put our finger on it but it seems like it is the native 802.1x supplicant within Android.&#xA;There are 3rd party supplicants but at this point this is not one that we can recommend.</description>
+    </item>
+    <item>
+      <title>All on board</title>
+      <link>https://noc.defcon.org/posts/dc23/allonboard/</link>
+      <pubDate>Tue, 04 Aug 2015 11:30:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc23/allonboard/</guid>
+      <description>howdy! We are here, new venue(s) and working full speed for the past two days already to get everything up and running.&#xA;We will keep you posted on the progress of the services coming up either here and/or on twitter @defcon_noc</description>
+    </item>
+  </channel>
+</rss>

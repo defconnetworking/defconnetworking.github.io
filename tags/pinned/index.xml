@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pinned on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/pinned/</link>
+    <description>Recent content in pinned on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2024 22:21:15 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/pinned/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEF CON 32 Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc32/dc32eol/</link>
+      <pubDate>Mon, 19 Aug 2024 22:21:15 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc32/dc32eol/</guid>
+      <description>[NOTE: So, apparently, we missed updating the website last year, so this is done a bit in arears. Meh &amp;ndash;mac.]&#xA;Another DEF CON is in the books.&#xA;Overall, it was a bit of a dip. I think the change of things lead to a lot of unknowns, and it shows in the stats:&#xA;25% less interwebz bits 15% less registered users on wifi 10% less concurrent users on wifi For full information, see the slides.</description>
+    </item>
+    <item>
+      <title>DEF CON 31 Post-Con and then some...</title>
+      <link>https://noc.defcon.org/posts/dc31/dc31oops/</link>
+      <pubDate>Mon, 19 Aug 2024 22:07:35 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc31/dc31oops/</guid>
+      <description>[NOTE: So, apparently, we missed updating the website last year, so this is done a bit in arears. Meh &amp;ndash;mac.]&#xA;Another DEF CON is in the books.&#xA;Overall, we saw more usage than any previous year:&#xA;15% more interwebz bits 30% more registered users on wifi 25% more concurrent users on wifi And we saw the usual amount of issues. Nothing new there.&#xA;For full information, see the slides.&#xA;Thanks to the entire NOC crew: miked, c7five, booger, deadication, dp1i, crv, jon2, wish, strange, musa, toph, commiebstrd, and johntitor.</description>
+    </item>
+    <item>
+      <title>DEF CON 30 in the books</title>
+      <link>https://noc.defcon.org/posts/dc30/dc30inthebooks/</link>
+      <pubDate>Mon, 22 Aug 2022 14:36:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc30/dc30inthebooks/</guid>
+      <description>30 years of DEF CON! It was great times.&#xA;From a NOC perspective it was a good year. Mostly thanks to Mac, who made a few trips pre-con to Vegas to have some equipment staged.&#xA;Overall everything worked. Wi-Fi coverage at the Caesar Forum was pretty awesome. The only minor annoyance was that certain flavors of Android did not like the certificate format we had initially posted on wifireg. Eventually folks figured out how to convert it using openssl and make it work.</description>
+    </item>
+  </channel>
+</rss>

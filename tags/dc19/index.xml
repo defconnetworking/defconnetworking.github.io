@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC19 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc19/</link>
+    <description>Recent content in DC19 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2011 18:43:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc19/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bandwidth @ 1645</title>
+      <link>https://noc.defcon.org/posts/dc19/bandwidth1645/</link>
+      <pubDate>Sun, 07 Aug 2011 18:43:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/bandwidth1645/</guid>
+      <description>All your torrents are belong to us&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Your Sunday Morning Bandwidth Report</title>
+      <link>https://noc.defcon.org/posts/dc19/yoursundaymorningbandwidthreport/</link>
+      <pubDate>Sun, 07 Aug 2011 12:04:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/yoursundaymorningbandwidthreport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utilization @ 1345</title>
+      <link>https://noc.defcon.org/posts/dc19/utilization1345/</link>
+      <pubDate>Sat, 06 Aug 2011 15:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/utilization1345/</guid>
+      <description>Network utilization currently at 94% (on inbound).&#xA;For the mathematically challenged, that&amp;rsquo;s 94Mb (we have a 100Mb circuit).&#xA;Outbound is running about 20Mb (probably torrents seeding).</description>
+    </item>
+    <item>
+      <title>Friday complete</title>
+      <link>https://noc.defcon.org/posts/dc19/fridaycomplete/</link>
+      <pubDate>Fri, 05 Aug 2011 23:47:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/fridaycomplete/</guid>
+      <description>9:30p - the day is largely over (other than parties at this point).&#xA;Not much bandwidth consumed today - a few spikes, but generally hovered around 10-14Mbps.&#xA;DCTV seems generally well-received. The feeds from the cameras don&amp;rsquo;t mix speaker &amp;amp; slides so we had to pick one feed to broadcast. We&amp;rsquo;re already talking about major upgrades next year - but since this is the first time since the AP we&amp;rsquo;ve been able to do this, we got a lot of ideas for making DC20 a major step-up.</description>
+    </item>
+    <item>
+      <title>Apple iPhone/iPad on WiFi</title>
+      <link>https://noc.defcon.org/posts/dc19/appleiphoneipadonwifi/</link>
+      <pubDate>Fri, 05 Aug 2011 14:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/appleiphoneipadonwifi/</guid>
+      <description>Carry-over from last year - iOS (Apple) products have issues on the wifi.&#xA;The work-around is here.</description>
+    </item>
+    <item>
+      <title>Blood Drive!</title>
+      <link>https://noc.defcon.org/posts/dc19/blooddrive/</link>
+      <pubDate>Thu, 04 Aug 2011 20:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/blooddrive/</guid>
+      <description>A reminder that there is a Blood Drive tomorrow afternoon. You can give specifically to help out Barkode (Matt Lewis), or to donate in general.&#xA;Priest commands you&amp;hellip;!</description>
+    </item>
+    <item>
+      <title>DCMEv2 for DC19</title>
+      <link>https://noc.defcon.org/posts/dc19/dcmev2fordc19/</link>
+      <pubDate>Thu, 04 Aug 2011 13:01:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/dcmev2fordc19/</guid>
+      <description>#DefCon Mobile Edition v2.0 for DC19 is LIVE! Check out https://me.defcon.org from your mobile phone for speakers, events, and contest info!&#xA;(many thanks to t3ase for staying up late much of the last week putting the final touches on the new site!)</description>
+    </item>
+    <item>
+      <title>More Network Bandwidth</title>
+      <link>https://noc.defcon.org/posts/dc19/morenetworkbandwidth/</link>
+      <pubDate>Wed, 03 Aug 2011 22:02:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/morenetworkbandwidth/</guid>
+      <description>Just in case we run out of bandwidth, we have a backup! :)</description>
+    </item>
+    <item>
+      <title>Secure WiFi is ready for you</title>
+      <link>https://noc.defcon.org/posts/dc19/securewifiisreadyforyou/</link>
+      <pubDate>Tue, 02 Aug 2011 20:41:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/securewifiisreadyforyou/</guid>
+      <description>&amp;ldquo;DefConSecure&amp;rdquo; is ready for use, although we still have some AP&amp;rsquo;s to deploy once rooms are turned over to us. However, if you&amp;rsquo;re looking to get prepared for DefCon, get your login setup from home (or other network you &amp;ldquo;trust&amp;rsquo;). Go to https://wifireg.defcon.org/ and reserve your login.</description>
+    </item>
+    <item>
+      <title>The Network Is Up!</title>
+      <link>https://noc.defcon.org/posts/dc19/thenetworkisup/</link>
+      <pubDate>Sun, 31 Jul 2011 20:19:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/thenetworkisup/</guid>
+      <description>First post! ZOMFG! l33t!&#xA;This post is officially made from the DefCon 19 Network!&#xA;The core is up and working. A couple IDF&amp;rsquo;s still have to be patched. Wall ports &amp;amp; floor jacks are mostly patched by the hotel, just need to be patched panel-to-switch in the IDF&amp;rsquo;s. The last of the AP&amp;rsquo;s are being provisioned right now by Luiz &amp;amp; Erick (he&amp;rsquo;s new this year, say hi to him!). The NOC is up &amp;amp; functional!</description>
+    </item>
+    <item>
+      <title>The Network is unpacked &amp; ready for setup!</title>
+      <link>https://noc.defcon.org/posts/dc19/thenetworkisunpackedreadyforsetup/</link>
+      <pubDate>Sun, 31 Jul 2011 15:28:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/thenetworkisunpackedreadyforsetup/</guid>
+      <description>We have arrived and unpacked. With hotel staff on-site &amp;amp; able to help us today, we expect to have the &amp;ldquo;core&amp;rdquo; network up today and the NOC fully functional. Well ahead of schedule!</description>
+    </item>
+    <item>
+      <title>It is upon us!</title>
+      <link>https://noc.defcon.org/posts/dc19/itisuponus/</link>
+      <pubDate>Fri, 29 Jul 2011 20:37:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/itisuponus/</guid>
+      <description>Well, for us, tomorrow begins the madness! Mac &amp;amp; I caravan up from San Diego tomorrow, with most everyone else on Sunday.&#xA;Some gear&amp;rsquo;s been shipped. Most the rest is coming up in my truck. Got enough cabling to LAN-ify the workshops per requests. WiFi&amp;rsquo;s working, core gear&amp;rsquo;s setup &amp;amp; working. Need to finish up some stuff on the Mobile Edition agenda-app, but it&amp;rsquo;s nearly done. It&amp;rsquo;s going to be a great year at the Rio!</description>
+    </item>
+    <item>
+      <title>WiFi Provisioning!</title>
+      <link>https://noc.defcon.org/posts/dc19/wifiprovisioning/</link>
+      <pubDate>Mon, 18 Jul 2011 19:17:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/wifiprovisioning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DCNET.v6</title>
+      <link>https://noc.defcon.org/posts/dc19/dcnetv6/</link>
+      <pubDate>Sat, 16 Jul 2011 18:11:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/dcnetv6/</guid>
+      <description>http://v6.defconnetworking.org</description>
+    </item>
+    <item>
+      <title>DefCon 19 to offer IPv6</title>
+      <link>https://noc.defcon.org/posts/dc19/defcon19toofferipv6/</link>
+      <pubDate>Sat, 16 Jul 2011 11:49:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/defcon19toofferipv6/</guid>
+      <description>The DefCon 19 Network will offer IPv6 on all networks. We&amp;rsquo;re going to be running dual-stack v4/v6.&#xA;What will you do with v6?</description>
+    </item>
+    <item>
+      <title>Mobile Edition</title>
+      <link>https://noc.defcon.org/posts/dc19/mobileedition/</link>
+      <pubDate>Tue, 12 Jul 2011 09:46:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/mobileedition/</guid>
+      <description>DefCon Mobile Edition v2.0 (DCMEv2). T3ase has been hard at work, re-doing the front-end for the Mobile Edition web-app, taking feedback from last year, ensuring better multi-device compatibility, etc. He seems to be really proud of it, but hasn&amp;rsquo;t let anyone see it yet - should I be worried? :)</description>
+    </item>
+    <item>
+      <title>T-3 Weeks</title>
+      <link>https://noc.defcon.org/posts/dc19/t3weeks/</link>
+      <pubDate>Mon, 11 Jul 2011 15:14:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/t3weeks/</guid>
+      <description>Less than 3 weeks til the DCNET crew heads to Vegas. We&amp;rsquo;re planning a full test of network gear this weekend, doing our best to make sure we&amp;rsquo;ve got everything as done-as-possible prior to being on-site. Since it&amp;rsquo;s a new year, new hotel, we&amp;rsquo;re trying to be prepared against the unexpected.&#xA;We have most everyone&amp;rsquo;s network requirements on our list at this point. Contest area may be our biggest challenge - I think we have requests for more drops than we have wall jacks in that room.</description>
+    </item>
+    <item>
+      <title>It&#39;s coming right for us!</title>
+      <link>https://noc.defcon.org/posts/dc19/itscomingrightforus/</link>
+      <pubDate>Mon, 27 Jun 2011 21:30:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/itscomingrightforus/</guid>
+      <description>Four more weeks and the Goons head off to Vegas to start DefCon setup. New hotel, new challenges, but we think it&amp;rsquo;ll all pay off!&#xA;Our aim is to have all the core network gear fully tested, end-to-end, in a couple weeks. The goal is to arrive in Vegas and all we have to do is supply power and start patching jacks! (Let&amp;rsquo;s hope I didn&amp;rsquo;t just jinx it)&#xA;We first announced this publicly at DC4420 (London)(@DC4420) last month - but we&amp;rsquo;re going to bring IPv6 to the DefCon network this year.</description>
+    </item>
+    <item>
+      <title>You know...!</title>
+      <link>https://noc.defcon.org/posts/dc19/youknow/</link>
+      <pubDate>Mon, 28 Feb 2011 11:13:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/youknow/</guid>
+      <description>You-know-who will be meeting at you-know-where you-know-when to talk about you-know-what.&#xA;It&amp;rsquo;s going to be an exciting year! Lots planned!&#xA;But you knew that!</description>
+    </item>
+    <item>
+      <title>Happy New Year - DC19 @ the Rio</title>
+      <link>https://noc.defcon.org/posts/dc19/happynewyeardc19therio/</link>
+      <pubDate>Sat, 01 Jan 2011 21:42:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc19/happynewyeardc19therio/</guid>
+      <description>Happy New Year to everyone! Happy Binary Day (010111)!&#xA;Official DC19 Network thread started over at the forums: [ link ]&#xA;Also interested in ideas for how to use the TV Channels for DCTV. We&amp;rsquo;ve got 5 channels which we can pump into the hotel rooms via CATV.&#xA;Get on the forums, get us idea on how to rock the Rio this year!</description>
+    </item>
+  </channel>
+</rss>

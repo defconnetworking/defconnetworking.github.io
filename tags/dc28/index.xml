@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC28 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc28/</link>
+    <description>Recent content in DC28 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 17:00:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc28/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DC28 - who dat?</title>
+      <link>https://noc.defcon.org/posts/dc28/dc28-whodat/</link>
+      <pubDate>Mon, 31 Aug 2020 17:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc28/dc28-whodat/</guid>
+      <description>Unfortunately, there wasn&amp;rsquo;t much for the DEF CON NOC team to do this year. Yeah, that sucks. So no updates here.</description>
+    </item>
+  </channel>
+</rss>

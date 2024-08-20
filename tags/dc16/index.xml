@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC16 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc16/</link>
+    <description>Recent content in DC16 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Aug 2008 01:00:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc16/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DCNET in Wired</title>
+      <link>https://noc.defcon.org/posts/dc16/dcnetinwired/</link>
+      <pubDate>Mon, 11 Aug 2008 01:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/dcnetinwired/</guid>
+      <description>Dave Bullock over at Wired&amp;rsquo;s Blog posted the First Ever Look Inside the DefCon Network Operations Center. Check it out! Props to everyone on staff for being amazingly organized this year and giving it 120% to have our stuff solid and ahead of schedule this year!&#xA;Oh, and it got reported on Slashdot.</description>
+    </item>
+    <item>
+      <title>Post-Con</title>
+      <link>https://noc.defcon.org/posts/dc16/postcon/</link>
+      <pubDate>Sun, 10 Aug 2008 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/postcon/</guid>
+      <description>And we&amp;rsquo;re done! Sorry we didn&amp;rsquo;t get a chance to present our stuff at Closing Ceremonies. However, we&amp;rsquo;re always here for you. We got our final stats &amp;amp; fun posted online here (PPT, 6MB) for you to review.&#xA;Don&amp;rsquo;t hesistate to send us questions or comments! We&amp;rsquo;ll be back next year, and we have some ideas on how to get you MORE INVOLVED next year in the DefCon Network! CHEERS!</description>
+    </item>
+    <item>
+      <title>General Update</title>
+      <link>https://noc.defcon.org/posts/dc16/generalupdate/</link>
+      <pubDate>Sat, 26 Jul 2008 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/generalupdate/</guid>
+      <description>Damn, I&amp;rsquo;ve been slow in updates. The planning has been busy, however. Final network plans are done. Bandwidth is procurred. WiFi for EVERYONE! :)&#xA;The hotel did some big upgrades on their network infrastructure this year; we&amp;rsquo;ve reviewed it with them (and approve!). We&amp;rsquo;ve gotten some new gear which should boost stability in our core network, as well. We&amp;rsquo;re trying to do very little new this year so we can focus on increased stablity and coverage.</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>https://noc.defcon.org/posts/dc16/firstpost/</link>
+      <pubDate>Sat, 15 Mar 2008 12:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc16/firstpost/</guid>
+      <description>Planning has begun! We had our first face-to-face meeting a couple weeks ago in a Very Cold Place. Many of us will be attending Layer One in Pasadena, CA, in May&amp;ndash; so we&amp;rsquo;ll have another face-to-face there and should be thru 40-50% of our planning at that point.&#xA;DCTV will be in full effect. Derek has some ideas&amp;ndash;which could be quite killer.&#xA;Last year we did the Table of Doom (the official network-capture opportunity).</description>
+    </item>
+  </channel>
+</rss>

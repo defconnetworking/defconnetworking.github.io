@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DC25 on The Official DEF CON Networking Team</title>
+    <link>https://noc.defcon.org/tags/dc25/</link>
+    <description>Recent content in DC25 on The Official DEF CON Networking Team</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 09:22:00 -0700</lastBuildDate>
+    <atom:link href="https://noc.defcon.org/tags/dc25/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DC 25 wrap-up</title>
+      <link>https://noc.defcon.org/posts/dc25/dc25wrapup/</link>
+      <pubDate>Tue, 01 Aug 2017 09:22:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc25/dc25wrapup/</guid>
+      <description>Yesterday the NOC team finished-up packing all the gear and started planning for DC 26.&#xA;In the case you missed the NOC review presentation at the closing ceremony, the detailed DEF CON 25 NOC review slides can be found here.&#xA;Thanks a lot for those who helped out! See you at DC 26!</description>
+    </item>
+    <item>
+      <title>DEF CON 25 is here</title>
+      <link>https://noc.defcon.org/posts/dc25/defcon25ishere/</link>
+      <pubDate>Wed, 26 Jul 2017 14:06:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc25/defcon25ishere/</guid>
+      <description>Just kidding, DEF CON is cancelled.&#xA;We are working hard to make sure everything is ready for the conference when it starts.&#xA;A bunch of things are ready though. For example, you can sign-up for the 802.1x/WPA2 WiFi at https://wifireg.defcon.org before you head to Caesars.&#xA;Detailed instructions are provided there, but the short is: create your credentials (don&amp;rsquo;t use the same as in important stuff!); download and install the digital certificate (or configuration profile for Apple devices).</description>
+    </item>
+  </channel>
+</rss>
