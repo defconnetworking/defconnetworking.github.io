@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noc.defcon.org/tags/dc33/</loc>
+    <lastmod>2025-08-10T15:24:15-07:00</lastmod>
+  </url><url>
+    <loc>https://noc.defcon.org/posts/dc33/dc33-eol-coming/</loc>
+    <lastmod>2025-08-10T15:24:15-07:00</lastmod>
+  </url><url>
+    <loc>https://noc.defcon.org/tags/pinned/</loc>
+    <lastmod>2025-08-10T15:24:15-07:00</lastmod>
+  </url><url>
+    <loc>https://noc.defcon.org/posts/</loc>
+    <lastmod>2025-08-10T15:24:15-07:00</lastmod>
+  </url><url>
+    <loc>https://noc.defcon.org/tags/</loc>
+    <lastmod>2025-08-10T15:24:15-07:00</lastmod>
+  </url><url>
+    <loc>https://noc.defcon.org/</loc>
+    <lastmod>2025-08-10T15:24:15-07:00</lastmod>
+  </url><url>
     <loc>https://noc.defcon.org/tags/dc32/</loc>
     <lastmod>2024-08-19T22:21:15-07:00</lastmod>
   </url><url>
     <loc>https://noc.defcon.org/posts/dc32/dc32eol/</loc>
-    <lastmod>2024-08-19T22:21:15-07:00</lastmod>
-  </url><url>
-    <loc>https://noc.defcon.org/tags/pinned/</loc>
-    <lastmod>2024-08-19T22:21:15-07:00</lastmod>
-  </url><url>
-    <loc>https://noc.defcon.org/posts/</loc>
-    <lastmod>2024-08-19T22:21:15-07:00</lastmod>
-  </url><url>
-    <loc>https://noc.defcon.org/tags/</loc>
-    <lastmod>2024-08-19T22:21:15-07:00</lastmod>
-  </url><url>
-    <loc>https://noc.defcon.org/</loc>
     <lastmod>2024-08-19T22:21:15-07:00</lastmod>
   </url><url>
     <loc>https://noc.defcon.org/tags/dc31/</loc>

@@ -6,8 +6,15 @@
     <description>Recent content on The Official DEF CON Networking Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2024 22:21:15 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 15:24:15 -0700</lastBuildDate>
     <atom:link href="https://noc.defcon.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEF CON 33 Post-Con Stats Are Coming</title>
+      <link>https://noc.defcon.org/posts/dc33/dc33-eol-coming/</link>
+      <pubDate>Sun, 10 Aug 2025 15:24:15 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc33/dc33-eol-coming/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://noc.defcon.org/media/dc33-coming.jpg&#34; alt=&#34;dc33 stats are coming&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DEF CON 32 Post-Con</title>
       <link>https://noc.defcon.org/posts/dc32/dc32eol/</link>
