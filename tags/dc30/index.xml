@@ -13,7 +13,7 @@
       <link>https://noc.defcon.org/posts/dc30/dc30inthebooks/</link>
       <pubDate>Mon, 22 Aug 2022 14:36:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc30/dc30inthebooks/</guid>
-      <description>30 years of DEF CON! It was great times.&#xA;From a NOC perspective it was a good year. Mostly thanks to Mac, who made a few trips pre-con to Vegas to have some equipment staged.&#xA;Overall everything worked. Wi-Fi coverage at the Caesar Forum was pretty awesome. The only minor annoyance was that certain flavors of Android did not like the certificate format we had initially posted on wifireg. Eventually folks figured out how to convert it using openssl and make it work.</description>
+      <description>&lt;p&gt;30 years of DEF CON! It was great times.&lt;/p&gt;&#xA;&lt;p&gt;From a NOC perspective it was a good year. Mostly thanks to Mac, who made a few trips&#xA;pre-con to Vegas to have some equipment staged.&lt;/p&gt;&#xA;&lt;p&gt;Overall everything worked. Wi-Fi coverage at the Caesar Forum was pretty awesome.&#xA;The only minor annoyance was that certain flavors of Android did not like the certificate&#xA;format we had initially posted on wifireg. Eventually folks figured out how to convert it&#xA;using openssl and make it work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

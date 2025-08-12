@@ -13,21 +13,21 @@
       <link>https://noc.defcon.org/posts/dc32/dc32eol/</link>
       <pubDate>Mon, 19 Aug 2024 22:21:15 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc32/dc32eol/</guid>
-      <description>Another DEF CON is in the books.&#xA;Overall, it was a bit of a dip. I think the change of things lead to a lot of unknowns, and it shows in the stats:&#xA;25% less interwebz bits 15% less registered users on wifi 10% less concurrent users on wifi For full information, see the slides.&#xA;A couple of incidents to follow up on, but probably the most impactful is to the core.</description>
+      <description>&lt;p&gt;Another DEF CON is in the books.&lt;/p&gt;&#xA;&lt;p&gt;Overall, it was a bit of a dip. I think the change of things lead to a lot of&#xA;unknowns, and it shows in the stats:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;25% less interwebz bits&lt;/li&gt;&#xA;&lt;li&gt;15% less registered users on wifi&lt;/li&gt;&#xA;&lt;li&gt;10% less concurrent users on wifi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For full information, see the &lt;a href=&#34;https://noc.defcon.org/media/DC32/DC32-slides-NOC.pdf&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A couple of incidents to follow up on, but probably the most impactful is to the&#xA;core. Our firewall is giving up the ghost. We bought this one back in 2014, so 10&#xA;years seems to be a more than reasonable time of service. We will be sure to give&#xA;it a proper Viking funeral and send it across the Rainbow Bridge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DEF CON 31 Post-Con and then some...</title>
       <link>https://noc.defcon.org/posts/dc31/dc31oops/</link>
       <pubDate>Mon, 19 Aug 2024 22:07:35 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc31/dc31oops/</guid>
-      <description>[NOTE: So, apparently, we missed updating the website last year, so this is done a bit in arears. Meh &amp;ndash;mac.]&#xA;Another DEF CON is in the books.&#xA;Overall, we saw more usage than any previous year:&#xA;15% more interwebz bits 30% more registered users on wifi 25% more concurrent users on wifi And we saw the usual amount of issues. Nothing new there.&#xA;For full information, see the slides.&#xA;Thanks to the entire NOC crew: miked, c7five, booger, deadication, dp1i, crv, jon2, wish, strange, musa, toph, commiebstrd, and johntitor.</description>
+      <description>&lt;p&gt;[NOTE: So, apparently, we missed updating the website last year, so this is done&#xA;a bit in arears. Meh &amp;ndash;mac.]&lt;/p&gt;&#xA;&lt;p&gt;Another DEF CON is in the books.&lt;/p&gt;&#xA;&lt;p&gt;Overall, we saw more usage than any previous year:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;15% more interwebz bits&lt;/li&gt;&#xA;&lt;li&gt;30% more registered users on wifi&lt;/li&gt;&#xA;&lt;li&gt;25% more concurrent users on wifi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And we saw the usual amount of issues. Nothing new there.&lt;/p&gt;&#xA;&lt;p&gt;For full information, see the &lt;a href=&#34;https://noc.defcon.org/media/DC31/dc31noc-closingceremonies.pdf&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Thanks to the entire NOC crew: miked, c7five, booger, deadication, dp1i, crv, jon2, wish, strange, musa, toph, commiebstrd, and johntitor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DEF CON 30 in the books</title>
       <link>https://noc.defcon.org/posts/dc30/dc30inthebooks/</link>
       <pubDate>Mon, 22 Aug 2022 14:36:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc30/dc30inthebooks/</guid>
-      <description>30 years of DEF CON! It was great times.&#xA;From a NOC perspective it was a good year. Mostly thanks to Mac, who made a few trips pre-con to Vegas to have some equipment staged.&#xA;Overall everything worked. Wi-Fi coverage at the Caesar Forum was pretty awesome. The only minor annoyance was that certain flavors of Android did not like the certificate format we had initially posted on wifireg. Eventually folks figured out how to convert it using openssl and make it work.</description>
+      <description>&lt;p&gt;30 years of DEF CON! It was great times.&lt;/p&gt;&#xA;&lt;p&gt;From a NOC perspective it was a good year. Mostly thanks to Mac, who made a few trips&#xA;pre-con to Vegas to have some equipment staged.&lt;/p&gt;&#xA;&lt;p&gt;Overall everything worked. Wi-Fi coverage at the Caesar Forum was pretty awesome.&#xA;The only minor annoyance was that certain flavors of Android did not like the certificate&#xA;format we had initially posted on wifireg. Eventually folks figured out how to convert it&#xA;using openssl and make it work.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

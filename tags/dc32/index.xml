@@ -13,7 +13,7 @@
       <link>https://noc.defcon.org/posts/dc32/dc32eol/</link>
       <pubDate>Mon, 19 Aug 2024 22:21:15 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc32/dc32eol/</guid>
-      <description>Another DEF CON is in the books.&#xA;Overall, it was a bit of a dip. I think the change of things lead to a lot of unknowns, and it shows in the stats:&#xA;25% less interwebz bits 15% less registered users on wifi 10% less concurrent users on wifi For full information, see the slides.&#xA;A couple of incidents to follow up on, but probably the most impactful is to the core.</description>
+      <description>&lt;p&gt;Another DEF CON is in the books.&lt;/p&gt;&#xA;&lt;p&gt;Overall, it was a bit of a dip. I think the change of things lead to a lot of&#xA;unknowns, and it shows in the stats:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;25% less interwebz bits&lt;/li&gt;&#xA;&lt;li&gt;15% less registered users on wifi&lt;/li&gt;&#xA;&lt;li&gt;10% less concurrent users on wifi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For full information, see the &lt;a href=&#34;https://noc.defcon.org/media/DC32/DC32-slides-NOC.pdf&#34;&gt;slides&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A couple of incidents to follow up on, but probably the most impactful is to the&#xA;core. Our firewall is giving up the ghost. We bought this one back in 2014, so 10&#xA;years seems to be a more than reasonable time of service. We will be sure to give&#xA;it a proper Viking funeral and send it across the Rainbow Bridge.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

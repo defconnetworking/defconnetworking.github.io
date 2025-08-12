@@ -13,21 +13,21 @@
       <link>https://noc.defcon.org/posts/dc23/dc23nocreviewslides/</link>
       <pubDate>Sun, 09 Aug 2015 20:50:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc23/dc23nocreviewslides/</guid>
-      <description>As promised during the closing ceremonies, the DC23 NOC review slides + stats can be found here.&#xA;Thanks everyone! See you at DEF CON 24!</description>
+      <description>&lt;p&gt;As promised during the closing ceremonies, the DC23 NOC review slides + stats&#xA;can be found &lt;a href=&#34;https://noc.defcon.org/media/3/20150809-dc23nocreview.pptx&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Thanks everyone! See you at DEF CON 24!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Android Devices and 802.1x</title>
       <link>https://noc.defcon.org/posts/dc23/androiddevicesand8021x/</link>
       <pubDate>Thu, 06 Aug 2015 15:06:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc23/androiddevicesand8021x/</guid>
-      <description>It seems like there is a number of Android devices that have issues validating the server certificate for 802.1x authentication.&#xA;We did some research and it seems like it is a common issue with different Android OS and hardware flavors. We can’t put our finger on it but it seems like it is the native 802.1x supplicant within Android.&#xA;There are 3rd party supplicants but at this point this is not one that we can recommend.</description>
+      <description>&lt;p&gt;It seems like there is a number of Android devices that have issues validating&#xA;the server certificate for 802.1x authentication.&lt;/p&gt;&#xA;&lt;p&gt;We did some research and it seems like it is a common issue with different&#xA;Android OS and hardware flavors. We can’t put our finger on it but it seems like&#xA;it is the native 802.1x supplicant within Android.&lt;/p&gt;&#xA;&lt;p&gt;There are 3rd party supplicants but at this point this is not one that we can&#xA;recommend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>All on board</title>
       <link>https://noc.defcon.org/posts/dc23/allonboard/</link>
       <pubDate>Tue, 04 Aug 2015 11:30:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc23/allonboard/</guid>
-      <description>howdy! We are here, new venue(s) and working full speed for the past two days already to get everything up and running.&#xA;We will keep you posted on the progress of the services coming up either here and/or on twitter @defcon_noc</description>
+      <description>&lt;p&gt;howdy! We are here, new venue(s) and working full speed for the past two days&#xA;already to get everything up and running.&lt;/p&gt;&#xA;&lt;p&gt;We will keep you posted on the progress of the services coming up either here&#xA;and/or on twitter @defcon_noc&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

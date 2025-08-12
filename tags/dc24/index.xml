@@ -13,49 +13,49 @@
       <link>https://noc.defcon.org/posts/dc24/defcon24closingceremoniesnocslides/</link>
       <pubDate>Sun, 07 Aug 2016 15:18:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/defcon24closingceremoniesnocslides/</guid>
-      <description>And here you can find the slides for the DC24 NOC review.&#xA;Thanks everyone and see y&amp;rsquo;all at DEF CON 25!</description>
+      <description>&lt;p&gt;And &lt;a href=&#34;https://noc.defcon.org/media/3/20160807-dc24-closing-slides-noc.pdf&#34;&gt;here&lt;/a&gt;&#xA;you can find the slides for the DC24 NOC review.&lt;/p&gt;&#xA;&lt;p&gt;Thanks everyone and see y&amp;rsquo;all at DEF CON 25!&lt;/p&gt;</description>
     </item>
     <item>
       <title>THANKS!</title>
       <link>https://noc.defcon.org/posts/dc24/thanks/</link>
       <pubDate>Sun, 07 Aug 2016 12:09:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/thanks/</guid>
-      <description>effffn and DEF CON would like to thank the hard work of the NOC team, not only for the long demanding week in hot Las Vegas but also the months of planning prior to the con.&#xA;There is quite a bit of preparation in every single aspect you can imagine on how to get all the network and internet requests to all of the vendors, speakers, press, contests, attendees and also those convenient DC TV channels for that late morning hangover cure in the convenience of your hotel room.</description>
+      <description>&lt;p&gt;effffn and DEF CON would like to thank the hard work of the NOC team,&#xA;not only for the long demanding week in hot Las Vegas but also the&#xA;months of planning prior to the con.&lt;/p&gt;&#xA;&lt;p&gt;There is quite a bit of preparation in every single aspect you can&#xA;imagine on how to get all the network and internet requests to all of&#xA;the vendors, speakers, press, contests, attendees and also those&#xA;convenient DC TV channels for that late morning hangover cure in the&#xA;convenience of your hotel room.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DC TV issues resolved</title>
       <link>https://noc.defcon.org/posts/dc24/dctvissuesresolved/</link>
       <pubDate>Sat, 06 Aug 2016 11:15:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/dctvissuesresolved/</guid>
-      <description>It looks like DC TV is stable now after the changes and tuning we have made.</description>
+      <description>&lt;p&gt;It looks like DC TV is stable now after the changes and tuning we have made.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DC TV Issues update</title>
       <link>https://noc.defcon.org/posts/dc24/dctvissuesupdate/</link>
       <pubDate>Sat, 06 Aug 2016 10:09:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/dctvissuesupdate/</guid>
-      <description>We made some changes in the setup and we are closely monitoring the streams that just started a few minutes ago.&#xA;Tweaks will be made on a per-channel basis and hopefully we will have good news soon.</description>
+      <description>&lt;p&gt;We made some changes in the setup and we are closely monitoring the streams that&#xA;just started a few minutes ago.&lt;/p&gt;&#xA;&lt;p&gt;Tweaks will be made on a per-channel basis and hopefully we will have good news&#xA;soon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DCTV Issues</title>
       <link>https://noc.defcon.org/posts/dc24/dctvissues/</link>
       <pubDate>Fri, 05 Aug 2016 10:53:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/dctvissues/</guid>
-      <description>We are aware DCTV is having intermittent issues and we are currently working on it.</description>
+      <description>&lt;p&gt;We are aware DCTV is having intermittent issues and we are currently working on&#xA;it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DEF CON NOC Team, Response to Register Article</title>
       <link>https://noc.defcon.org/posts/dc24/defconnocteamresponsetoregisterarticle/</link>
       <pubDate>Thu, 04 Aug 2016 14:33:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/defconnocteamresponsetoregisterarticle/</guid>
-      <description>In response to the article that was posted by the Register, the DEF CON Network Operations Center Team (NOC) pride ourselves on making a network that allows the community to get Internet access, and have access to internal resources (Servers, etc.). The DEF CON NOC believes in privacy and anonymity for our attendees.&#xA;When users attach to the DefCon Secure (802.1x/PEAP) network, we have made the decision to do our best to make that data/traffic inaccessible, and the team does not allow for data monitoring, nor recording of the traffic.</description>
+      <description>&lt;p&gt;In response to the&#xA;&lt;a href=&#34;http://www.theregister.co.uk/2016/08/01/prn_and_pwning_inside_the_blackhat_vegas_noc_where_even_zeus_is_cool/&#34;&gt;article that was posted by the Register&lt;/a&gt;,&#xA;the DEF CON Network Operations Center Team (NOC) pride ourselves on making a&#xA;network that allows the community to get Internet access, and have access to&#xA;internal resources (Servers, etc.). The DEF CON NOC believes in privacy and&#xA;anonymity for our attendees.&lt;/p&gt;&#xA;&lt;p&gt;When users attach to the DefCon Secure (802.1x/PEAP) network, we have made the&#xA;decision to do our best to make that data/traffic inaccessible, and the team&#xA;does not allow for data monitoring, nor recording of the traffic. We do have&#xA;overall bandwidth monitoring- but will never run driftnet, ntop or other tools&#xA;that invade the privacy of the users on the secure network.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to DEF CON 24</title>
       <link>https://noc.defcon.org/posts/dc24/welcometodefcon24/</link>
       <pubDate>Thu, 04 Aug 2016 14:24:00 -0700</pubDate>
       <guid>https://noc.defcon.org/posts/dc24/welcometodefcon24/</guid>
-      <description>howdy!&#xA;We are happy to be here and everything should be up and running at this point in both Paris and Bally&amp;rsquo;s conference centers.&#xA;Also, don&amp;rsquo;t forget to check DC TV in the convenience of your hotel room.</description>
+      <description>&lt;p&gt;howdy!&lt;/p&gt;&#xA;&lt;p&gt;We are happy to be here and everything should be up and running at this point in&#xA;both Paris and Bally&amp;rsquo;s conference centers.&lt;/p&gt;&#xA;&lt;p&gt;Also, don&amp;rsquo;t forget to check DC TV in the convenience of your hotel room.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
