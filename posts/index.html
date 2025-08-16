@@ -37,6 +37,144 @@
   
     <div class="grid_9">
       <div class="grid_8 alpha">
+        <h2><a href="/posts/dc33/dc33-eol-stats/">DEF CON 33 Network - Infrastructure Summmary Report</a></h2>
+      </div>
+      <div class="grid_9 contentDate">
+        
+        
+        <small class="contentPostedDate">POSTED ON <time datetime="2025-08-16T10:00:00-07:00">2025-08-16 @ 10:00:00</time> BY mac </small>
+      </div>
+      <div class="grid_9 contentBody">
+        <p>Welp, another year, another DEF CON come and gone.</p>
+<p>On the whole, it was a big success for the DEF CON NOC. We tried out a few new
+things that went well. The biggest one was some wireless bridges. For
+<em>reasons</em>, we had a shortened on site setup time, so we really had to cut down
+our install time. Mostly this meant cutting down on the number of floor wired
+drops that we could provide or providing them in a much fast way. We opted for
+the second option by providing some wireless bridges. We&rsquo;ll put up a post later
+with the specifics of these, but all in all, we think they did the job.</p>
+<p>We of course ran into a few hiccups, some self inflicted. As usual, the
+bandwidth crunch was a thing on the first day. Apparently, DEF CON is the time
+for everyone to download all of the patches when arriving onsite, because,
+well, reasons. Luckily, bossman DT paid for the bandwidth upgrade, doubling our
+overall commit from 500Mbps to 1Gbps. On the whole, we feel it worked out over
+the rest of the weekend. We&rsquo;re gonna start there next time.</p>
+<p>Sometimes, you forget the little things, like making sure you have enough log
+retention to be able to count number of devices and what not, and then you
+forget the little things like test after configurations and updates. And
+sometimes, you then have to have appointments that just don&rsquo;t work well with
+making changes. Sometimes. Well, completely unrelated, Saturday there was a
+DHCP outage. It was a quick fix, but still took a bit to respond because, well
+sometimes.</p>
+<p>Lastly, the third system wide thing was running out of source states on the
+firewall. No matter how much you test blasting the thing, there&rsquo;s always the
+scenarios you hit when going into production. Again, luckily, it was a quick
+fix, but still lessoned learned.</p>
+<p>Now, to the numbers. To give you an insight into what we did, here&rsquo;s some of
+the normal usage and build out stats:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Item</th>
+          <th>DC33</th>
+          <th>DC32</th>
+          <th>change</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Days onsite to setup</td>
+          <td>2</td>
+          <td>4</td>
+          <td>-50%</td>
+      </tr>
+      <tr>
+          <td>Interwebz Pipe</td>
+          <td>1Gbps</td>
+          <td>500Mbps</td>
+          <td>+100%</td>
+      </tr>
+      <tr>
+          <td>Total Bytes Transfered</td>
+          <td>13.9TB</td>
+          <td>7.2TB</td>
+          <td>+90%</td>
+      </tr>
+      <tr>
+          <td>Unique Mac Addresses</td>
+          <td>12K</td>
+          <td>8K</td>
+          <td>+50%</td>
+      </tr>
+      <tr>
+          <td>Concurrent Wireless Users</td>
+          <td>3400</td>
+          <td>2700</td>
+          <td>+26%</td>
+      </tr>
+      <tr>
+          <td>Floor Drops</td>
+          <td>111</td>
+          <td>100</td>
+          <td>+11%</td>
+      </tr>
+      <tr>
+          <td>FreeBSD Firewalls</td>
+          <td>2</td>
+          <td>2</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Core Switches</td>
+          <td>1</td>
+          <td>1</td>
+          <td>-</td>
+      </tr>
+      <tr>
+          <td>Edge Switches</td>
+          <td>16</td>
+          <td>32</td>
+          <td>-50% (see wireless bridges)</td>
+      </tr>
+      <tr>
+          <td>Access Points</td>
+          <td>700</td>
+          <td>650</td>
+          <td>Added space in the North Hall</td>
+      </tr>
+      <tr>
+          <td>Wireless Bridges</td>
+          <td>62</td>
+          <td>0</td>
+          <td>NEW this year</td>
+      </tr>
+      <tr>
+          <td>Servers</td>
+          <td>7</td>
+          <td>3</td>
+          <td>+133% moved stuff to VMs so expanded out</td>
+      </tr>
+  </tbody>
+</table>
+<p>If you give the bandwidth, people will come. We&rsquo;re looking at making sure to
+keep or increase that in the budget for next year. But, just uh, try to patch
+before getting here. We do what we can, but still recommend against unpatched
+systems out there.</p>
+<p>Expect a follow up on the wireless stats. We&rsquo;re getting more and more data out
+of those, just to see what people are playing with.</p>
+<p>Until then, thanks for using the network. And thanks for being understanding
+when there are issues. We know how critical it is to your experience here, and
+aim to provide the best we can with what we got. It&rsquo;s always a balance, but
+it&rsquo;s good to see the overall numbers increasing every year, and expect to see
+more and more good things in the future.</p>
+<p>Have fun, kids,</p>
+<p>&ndash; <em>sparky and mac</em></p>
+
+      </div>
+    </div>
+  
+    <div class="grid_9">
+      <div class="grid_8 alpha">
         <h2><a href="/posts/dc33/dc33-eol-coming/">DEF CON 33 Post-Con Stats Are Coming</a></h2>
       </div>
       <div class="grid_9 contentDate">

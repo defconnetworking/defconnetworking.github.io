@@ -6,8 +6,15 @@
     <description>Recent content in pinned on The Official DEF CON Networking Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Aug 2025 15:24:15 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 10:00:00 -0700</lastBuildDate>
     <atom:link href="https://noc.defcon.org/tags/pinned/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEF CON 33 Network - Infrastructure Summmary Report</title>
+      <link>https://noc.defcon.org/posts/dc33/dc33-eol-stats/</link>
+      <pubDate>Sat, 16 Aug 2025 10:00:00 -0700</pubDate>
+      <guid>https://noc.defcon.org/posts/dc33/dc33-eol-stats/</guid>
+      <description>&lt;p&gt;Welp, another year, another DEF CON come and gone.&lt;/p&gt;&#xA;&lt;p&gt;On the whole, it was a big success for the DEF CON NOC. We tried out a few new&#xA;things that went well. The biggest one was some wireless bridges. For&#xA;&lt;em&gt;reasons&lt;/em&gt;, we had a shortened on site setup time, so we really had to cut down&#xA;our install time. Mostly this meant cutting down on the number of floor wired&#xA;drops that we could provide or providing them in a much fast way. We opted for&#xA;the second option by providing some wireless bridges. We&amp;rsquo;ll put up a post later&#xA;with the specifics of these, but all in all, we think they did the job.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DEF CON 33 Post-Con Stats Are Coming</title>
       <link>https://noc.defcon.org/posts/dc33/dc33-eol-coming/</link>
