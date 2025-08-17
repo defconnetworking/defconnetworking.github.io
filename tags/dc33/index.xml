@@ -6,8 +6,15 @@
     <description>Recent content in DC33 on The Official DEF CON Networking Team</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Aug 2025 10:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 09:19:41 -0500</lastBuildDate>
     <atom:link href="https://noc.defcon.org/tags/dc33/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEF CON 33 More Stats</title>
+      <link>https://noc.defcon.org/posts/dc33/dc33-wifi-stats/</link>
+      <pubDate>Sun, 17 Aug 2025 09:19:41 -0500</pubDate>
+      <guid>https://noc.defcon.org/posts/dc33/dc33-wifi-stats/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DEF CON 33 - Here&amp;rsquo;s some data&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This year, sparky and mac wanted to start sharing a bit more of what we do and how things go behind the scene. In that sense, I am going to throw at you a lot of boring numbers, charts&amp;hellip; and some fun stuff we did this year.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;First we do the work&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Like mac mentioned on his post, this year we knew beforehand that we would have less time to setup everything. So we had to be creative and come up with ways to reduce our setup time, and one of those ideas was to use wireless bridges to significantly reduce the number of physical drops we had to run all over the convention center.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DEF CON 33 Network - Infrastructure Summmary Report</title>
       <link>https://noc.defcon.org/posts/dc33/dc33-eol-stats/</link>

@@ -38,6 +38,88 @@
   
     <div class="grid_9">
       <div class="grid_8 alpha">
+        <h2><a href="/posts/dc33/dc33-wifi-stats/">DEF CON 33 More Stats</a></h2>
+      </div>
+      <div class="grid_9 contentDate">
+        
+        
+        <small class="contentPostedDate">POSTED ON <time datetime="2025-08-17T09:19:41-05:00">2025-08-17 @ 09:19:41</time> BY strange </small>
+      </div>
+      <div class="grid_9 contentBody">
+        <p><strong>DEF CON 33 - Here&rsquo;s some data</strong></p>
+<p>This year, sparky and mac wanted to start sharing a bit more of what we do and how things go behind the scene. In that sense, I am going to throw at you a lot of boring numbers, charts&hellip; and some fun stuff we did this year.</p>
+<p><strong>First we do the work</strong></p>
+<p>Like mac mentioned on his post, this year we knew beforehand that we would have less time to setup everything. So we had to be creative and come up with ways to reduce our setup time, and one of those ideas was to use wireless bridges to significantly reduce the number of physical drops we had to run all over the convention center.</p>
+<p>On Monday, we got together in a hotel space and worked as a team to pre-stage as much of the equipment as possible, that included the 62 wireless bridges we were going to deploy all over LVCC.</p>
+<p>We were excited to see how well those wireless bridges would work&hellip; and as you can see on the graphs below, they worked surprisingly well, considering the busy environment.</p>
+<p>And yes, we heard a good number of folks were complaining about the wireless network. But I wanted to take this moment to clarify that as far as data goes, the wireless network was actually rock solid, low latency and all that good stuff. We did have one issue Saturday afternoon, where the DHCP decided to take a nap and made it look like the DefCon wireless networks were offline. That lasted about 20 minutes before everything was up and running again. So when folks rightfully complained about &ldquo;the wifi&rdquo; on social media, read our internet pipes, and not the wireless itself. Our friends that take care of the wireless networks felt the heat while doing their best, so I wanted to clear that up. Give them some love, they did an amazing job.</p>
+<p><strong>The Woppers</strong></p>
+<p>That&rsquo;s what we called those wireless bridges internally, &ldquo;woppers&rdquo;.</p>
+<p>As you can see below, our average &ldquo;last mile&rdquo; latency, which is basically latency between the wopper and the other side of the wireless network, was below 20ms, with sub-10ms on a good chunk of them. For this kind of busy environment, that is pretty solid. The &ldquo;reds&rdquo; you see are packet losses, and we were monitoring these closely throughout the day. When we saw them, we went to physically check on the wopper, and 100% of the time was due to people moving them under tables or even under other objects/bags. For next year that is something we plan to address by sticking them to high poles or similar.</p>
+<p><a href="/media/DC33/westhall_woppers_latency_hr.png"><img src="/media/DC33/westhall_woppers_latency.png" alt="wopper_latency"></a></p>
+<p><strong>Then we have fun</strong></p>
+<p>This year we deployed some extra monitoring around the LVCC to see what you all were up to&hellip; and you didn&rsquo;t disappoint us! Good job! We were using Nzyme for this.</p>
+<p>Good news first, we didn&rsquo;t see any significant/relevant de-auth attacks on the wireless network. As you can see on the graph below, there is no &ldquo;spike&rdquo; in de-auths, other than the expected from normal activities. And to be honest, if you are connect to the WPA3-only network, sans an RF blast on all frequencies, you are safe from those kind of attacks. I am not saying people didn&rsquo;t try, it was just not enough to cause any trouble.</p>
+<p><a href="/media/DC33/nzyme_deauth_hr.png"><img src="/media/DC33/nzyme_deauth.png" alt="wopper_latency"></a></p>
+<p><strong>This is DEF CON</strong></p>
+<p>When they say out there this is a hostile environment&hellip; this is what they mean. We of course had folks blasting around all kinds of SSIDs, like &ldquo;Comcast&rdquo;, &ldquo;Ford-5G&rdquo;, airport lobby, stores&hellip; you name it. As you probably understands, your phone WILL automatically connect to those networks if you ever connected to them and left the &ldquo;Remember Network&rdquo; box checked&hellip; which is no bueno.</p>
+<p><a href="/media/DC33/nzyme_fake_ssids_hr.png"><img src="/media/DC33/nzyme_fake_ssids.png" alt="wopper_latency"></a></p>
+<p>And by the way, trilateration works and we could pinpoint where those funny people were. ;)</p>
+<p><a href="/media/DC33/nzyme_trilateration_hr.png"><img src="/media/DC33/nzyme_trilateration.png" alt="wopper_latency"></a></p>
+<p>Someone (or multiple people?) also dropped ESP32s all over the LVCC. I did some reverse engineering on the firmware to see what was going on. They were basically broadcasting a network with the same name as DefCon-Open, counting how many users connected to it, and they could also setup a fake captive portal with a password form that redirected to a page that played Rick Astley&rsquo;s famous song.</p>
+<p><a href="/media/DC33/esp32_hr.jpeg"><img src="/media/DC33/esp32.jpeg" alt="wopper_latency"></a></p>
+<p>Lastly, here are some other interesting things we were able to see:</p>
+<p><code>Rogue devices:</code></p>
+<p><code>ESP32 Marauders (not unique devices, but times we saw them advertising): 11486</code><br>
+<code>Unique Pwnagotchi: 23</code><br>
+<code>Unique Flipper Zero Evil Portal: 12</code><br>
+<code>Unique Wifi Pineapples: 34</code></p>
+<p><code>Fake Doppelgangers of our Networks:</code></p>
+<p><code>Networks with same name as Defcon Secure Networks but disabled encryption (Unique sources): 10</code><br>
+<code>Networks with similar name as Defcon networks (Unique sources): 5</code></p>
+<p><code>Other stats:</code></p>
+<p><code>UAVs (drones) sending beacons around LVCC West: 86</code><br>
+<code>Management Frames processed in bytes: 26,360,159,156 (26GB)</code><br>
+<code>Peak number of devices advertising networks around LVCC: 6023</code></p>
+<p><code>Interesting SSIDs</code></p>
+<p><code>Before I list them, a few remarks:</code></p>
+<ul>
+<li><code>Yes, there is a Dunkin' Donuts at the LVCC. No, they don't have a free wifi network without a captive portal!</code></li>
+<li><code>Our open network is DefCon-Open, not DEFCON OPEN... I recommend you connect to neither...</code></li>
+<li><code>Good old Rick Roll is back this year...</code></li>
+</ul>
+<p><code>SpaceLasers</code><br>
+<code>iPhone</code><br>
+<code>Dunkin' Donuts Guest</code><br>
+<code>It Hurts When IP</code><br>
+<code>You shall not connect</code><br>
+<code>IG Labs Regional Airport_5G</code><br>
+<code>FakeNews</code><br>
+<code>IG Labs Regional Airport</code><br>
+<code>01 Never gonna give you up</code><br>
+<code>02 Never gonna let you down</code><br>
+<code>03 Never gonna run around</code><br>
+<code>04 and desert you</code><br>
+<code>08 and hurt you</code><br>
+<code>07 Never gonna tell a lie</code><br>
+<code>05 Never gonna make you cry</code><br>
+<code>06 Never gonna say goodbye</code><br>
+<code>&quot;Nock, nock, Luke.&quot;</code><br>
+<code>FBI Van #4</code><br>
+<code>House LANister</code><br>
+<code>FBI-surveillance-van</code><br>
+<code>DEFCON OPEN</code><br>
+<code>FBI Surveillance Van</code><br>
+<code>NSA_Surveillance</code><br>
+<code>NSAsurveillanceVan01</code></p>
+<p>Even with all the challenges, it was a good year. And I can&rsquo;t wait for DEF CON 34!!</p>
+<p><em>&ndash; strange</em></p>
+
+      </div>
+    </div>
+  
+    <div class="grid_9">
+      <div class="grid_8 alpha">
         <h2><a href="/posts/dc33/dc33-eol-stats/">DEF CON 33 Network - Infrastructure Summmary Report</a></h2>
       </div>
       <div class="grid_9 contentDate">
